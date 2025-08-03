@@ -1,0 +1,68 @@
+[
+  {
+    "id": "The G.O.A.T",
+    "password": "dcff06b99b0476970aae694150c3d0e00bbc2ebfce110c04267f889fa3479aa8",
+    "created_at": "2025-06-22T15:49:59.801368",
+    "full_name": "Parth Hingane",
+    "email": "parth@gmail.com",
+    "role": "admin",
+    "status": "active",
+    "photo": "profile_photos/The G.O.A.T.png"
+  },
+  {
+    "id": "Aaba",
+    "password": "87aa77a04d387394c7c86ba76c9f57f72ad06908bf0543175466e44455349d48",
+    "created_at": "2025-06-23T12:19:51.353729",
+    "full_name": "Ashok Kharabade",
+    "email": "ashok@gmail.com",
+    "role": "user",
+    "status": "active"
+  },
+  {
+    "id": "Aaji",
+    "password": "e0549537510999e0160460d50da0c6d81782fc6781288fd3af7270df78be69b3",
+    "created_at": "2025-06-23T12:25:22.016899",
+    "full_name": "Godawari Kharabade",
+    "email": "godawari@gmail.com",
+    "role": "user",
+    "status": "active"
+  },
+  {
+    "id": "Bela",
+    "password": "662ee96ad986b0f79bdf8a101a576c601ce27cfb3f89407836eaf80fbcfb6e97",
+    "created_at": "2025-06-23T12:55:07.659429",
+    "full_name": "Kiara Hingane",
+    "email": "kiara@gmail.com",
+    "role": "user",
+    "status": "active",
+    "photo": "profile_photos/Bela.png"
+  },
+  {
+    "id": "samadhi",
+    "password": "39a2948a111eadf21015a1910fc38e44d4c373bf24965d70a1bd04ecd2ccaea0",
+    "created_at": "2025-06-24T18:23:43.696982",
+    "full_name": "Aniket Hingane",
+    "email": "aniket@gmail.com",
+    "role": "user",
+    "status": "active",
+    "photo": "profile_photos/samadhi.png"
+  },
+  {
+    "id": "Rani",
+    "password": "f1734f0675400bcb39c65157af77fd7098d5acf795579bd3a5992fe4084a27bd",
+    "created_at": "2025-06-24T18:25:36.693117",
+    "full_name": "Shital Kharabade",
+    "email": "shital@gmail.com",
+    "role": "user",
+    "status": "active"
+  },
+  {
+    "id": "ghghghggh",
+    "password": "cd0aa9856147b6c5b4ff2b7dfee5da20aa38253099ef1b4a64aced233c9afe29",
+    "created_at": "2025-06-29T15:22:46.355597",
+    "full_name": "gggg",
+    "email": "gg",
+    "role": "user",
+    "status": "active"
+  }
+]
