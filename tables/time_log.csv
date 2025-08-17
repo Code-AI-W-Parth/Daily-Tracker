@@ -1,0 +1,3090 @@
+id,date,time,what_i_did,user_id
+1349,2025-05-31,21:00-23:00,Do anything like Watching drawing and More,samadhi
+2,2025-06-14,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+3,2025-06-14,8:31-9:00, Play,The G.O.A.T
+4,2025-06-14,9:01-9:20, do UCMAS,The G.O.A.T
+5,2025-06-14,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+6,2025-06-14,10:31-11:00,Do anything,The G.O.A.T
+7,2025-06-14,11:01-12:00, Maybe told to do homework or play outside.,The G.O.A.T
+8,2025-06-14,12:01-1:00,Eat,The G.O.A.T
+9,2025-06-14,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+10,2025-06-14,2:01-3:30, anything,The G.O.A.T
+11,2025-06-14,3:30-6:00, Home work,The G.O.A.T
+12,2025-06-14,6:01-7:30, Watch,The G.O.A.T
+13,2025-06-14,7:31-8:30,Dinner,The G.O.A.T
+15,2025-06-13,7:30,Woke Up,The G.O.A.T
+16,2025-06-13,7:31-8:05,Get ready to go to school,The G.O.A.T
+17,2025-06-13,8:05,Walk to school,The G.O.A.T
+18,2025-06-13,8:10,Arrive at school,The G.O.A.T
+19,2025-06-13,8:11-8:30, Wait until school starts,The G.O.A.T
+20,2025-06-13,8:31-2:00, went to track and field,The G.O.A.T
+21,2025-06-13,2:01-2:50,French,The G.O.A.T
+22,2025-06-13,2:51-3:00,go home,The G.O.A.T
+23,2025-06-13,3:00-3:05, arrive at home,The G.O.A.T
+24,2025-06-13,3:06-4:00, Watch,The G.O.A.T
+25,2025-06-13,4:00-5:29, get ready for swimming class,The G.O.A.T
+26,2025-06-13,5:30 -7:31, Have swimming class,The G.O.A.T
+27,2025-06-13,7:31-8:30,Go home and eat,The G.O.A.T
+29,2025-06-18,7:00-8:20,Woke up and got ready to go to school.,The G.O.A.T
+30,2025-06-18,8:21-8:30,pack up and go to school,The G.O.A.T
+31,2025-06-18,8:31-2:50,school time,The G.O.A.T
+32,2025-06-18,2:51-3:00,Decide when to walk home  and walk at that time.,The G.O.A.T
+33,2025-06-18,3:01-3:20,take out my lunch box and change my clothes.,The G.O.A.T
+34,2025-06-18,3:21-4:30,Watch,The G.O.A.T
+35,2025-06-18,4:31-4:45,drawing,The G.O.A.T
+37,2025-06-18,5:01-6:04,python,The G.O.A.T
+38,2025-06-18,6:05-9:10,Play outside,The G.O.A.T
+39,2025-06-18,9:10-9:45,Eat,The G.O.A.T
+40,2025-06-28,7:30-8:00,woke up and got ready for the day,The G.O.A.T
+41,2025-06-28,8:00-8:30,breakfast,The G.O.A.T
+44,2025-06-28,8:30-9:30,played in backyard,The G.O.A.T
+45,2025-06-28,9:30-2:30,played,The G.O.A.T
+50,2025-06-28,2:30-4:20,helped aaba with sorting cards,The G.O.A.T
+49,2025-06-28,4:20-7:30,python coding,The G.O.A.T
+52,2025-06-28,7:35-9:00,ate pani puri,The G.O.A.T
+51,2025-06-28,7:30-7:35,took a bath,The G.O.A.T
+1,2025-06-14,23:00-07:00,Sleep,The G.O.A.T
+14,2025-06-14,23:00-07:00,Sleep,The G.O.A.T
+28,2025-06-13,23:00-07:00,Sleep,The G.O.A.T
+36,2025-06-18,23:00-07:00,Sleep,The G.O.A.T
+53,2025-06-28,23:00-07:00,Sleep,The G.O.A.T
+56,2025-06-18,23:00-07:00,Sleep,The G.O.A.T
+55,2025-06-14,23:00-07:00,Sleep,The G.O.A.T
+54,2025-06-13,23:00-07:00,Sleep,The G.O.A.T
+57,2025-05-01,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+58,2025-05-01,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+59,2025-05-01,8:31-9:00,Play,The G.O.A.T
+60,2025-05-01,9:01-9:20,do UCMAS,The G.O.A.T
+61,2025-05-01,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+62,2025-05-01,10:31-11:00,Do anything,The G.O.A.T
+63,2025-05-01,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+64,2025-05-01,12:01-1:00,Eat,The G.O.A.T
+65,2025-05-01,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+66,2025-05-01,2:01-3:30,anything,The G.O.A.T
+67,2025-05-01,3:30-6:00,Home work,The G.O.A.T
+68,2025-05-01,6:01-7:30,Watch,The G.O.A.T
+69,2025-05-01,7:31-8:30,Dinner,The G.O.A.T
+70,2025-05-01,8:31-9:20,Try to sleep,The G.O.A.T
+71,2025-05-02,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+72,2025-05-02,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+73,2025-05-02,8:31-9:00,Play,The G.O.A.T
+74,2025-05-02,9:01-9:20,do UCMAS,The G.O.A.T
+75,2025-05-02,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+76,2025-05-02,10:31-11:00,Do anything,The G.O.A.T
+77,2025-05-02,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+78,2025-05-02,12:01-1:00,Eat,The G.O.A.T
+79,2025-05-02,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+80,2025-05-02,2:01-3:30,anything,The G.O.A.T
+81,2025-05-02,3:30-6:00,Home work,The G.O.A.T
+82,2025-05-02,6:01-7:30,Watch,The G.O.A.T
+83,2025-05-02,7:31-8:30,Dinner,The G.O.A.T
+84,2025-05-02,8:31-9:20,Try to sleep,The G.O.A.T
+85,2025-05-03,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+86,2025-05-03,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+87,2025-05-03,8:31-9:00,Play,The G.O.A.T
+88,2025-05-03,9:01-9:20,do UCMAS,The G.O.A.T
+89,2025-05-03,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+90,2025-05-03,10:31-11:00,Do anything,The G.O.A.T
+91,2025-05-03,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+92,2025-05-03,12:01-1:00,Eat,The G.O.A.T
+93,2025-05-03,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+94,2025-05-03,2:01-3:30,anything,The G.O.A.T
+95,2025-05-03,3:30-6:00,Home work,The G.O.A.T
+96,2025-05-03,6:01-7:30,Watch,The G.O.A.T
+97,2025-05-03,7:31-8:30,Dinner,The G.O.A.T
+98,2025-05-03,8:31-9:20,Try to sleep,The G.O.A.T
+99,2025-05-04,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+100,2025-05-04,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+101,2025-05-04,8:31-9:00,Play,The G.O.A.T
+102,2025-05-04,9:01-9:20,do UCMAS,The G.O.A.T
+103,2025-05-04,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+104,2025-05-04,10:31-11:00,Do anything,The G.O.A.T
+105,2025-05-04,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+106,2025-05-04,12:01-1:00,Eat,The G.O.A.T
+107,2025-05-04,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+108,2025-05-04,2:01-3:30,anything,The G.O.A.T
+109,2025-05-04,3:30-6:00,Home work,The G.O.A.T
+110,2025-05-04,6:01-7:30,Watch,The G.O.A.T
+111,2025-05-04,7:31-8:30,Dinner,The G.O.A.T
+112,2025-05-04,8:31-9:20,Try to sleep,The G.O.A.T
+113,2025-05-05,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+114,2025-05-05,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+115,2025-05-05,8:31-9:00,Play,The G.O.A.T
+116,2025-05-05,9:01-9:20,do UCMAS,The G.O.A.T
+117,2025-05-05,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+118,2025-05-05,10:31-11:00,Do anything,The G.O.A.T
+119,2025-05-05,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+120,2025-05-05,12:01-1:00,Eat,The G.O.A.T
+121,2025-05-05,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+122,2025-05-05,2:01-3:30,anything,The G.O.A.T
+123,2025-05-05,3:30-6:00,Home work,The G.O.A.T
+124,2025-05-05,6:01-7:30,Watch,The G.O.A.T
+125,2025-05-05,7:31-8:30,Dinner,The G.O.A.T
+126,2025-05-05,8:31-9:20,Try to sleep,The G.O.A.T
+127,2025-05-06,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+128,2025-05-06,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+129,2025-05-06,8:31-9:00,Play,The G.O.A.T
+130,2025-05-06,9:01-9:20,do UCMAS,The G.O.A.T
+131,2025-05-06,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+132,2025-05-06,10:31-11:00,Do anything,The G.O.A.T
+133,2025-05-06,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+134,2025-05-06,12:01-1:00,Eat,The G.O.A.T
+135,2025-05-06,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+136,2025-05-06,2:01-3:30,anything,The G.O.A.T
+137,2025-05-06,3:30-6:00,Home work,The G.O.A.T
+138,2025-05-06,6:01-7:30,Watch,The G.O.A.T
+139,2025-05-06,7:31-8:30,Dinner,The G.O.A.T
+140,2025-05-06,8:31-9:20,Try to sleep,The G.O.A.T
+141,2025-05-07,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+142,2025-05-07,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+143,2025-05-07,8:31-9:00,Play,The G.O.A.T
+144,2025-05-07,9:01-9:20,do UCMAS,The G.O.A.T
+145,2025-05-07,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+146,2025-05-07,10:31-11:00,Do anything,The G.O.A.T
+147,2025-05-07,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+148,2025-05-07,12:01-1:00,Eat,The G.O.A.T
+149,2025-05-07,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+150,2025-05-07,2:01-3:30,anything,The G.O.A.T
+151,2025-05-07,3:30-6:00,Home work,The G.O.A.T
+152,2025-05-07,6:01-7:30,Watch,The G.O.A.T
+153,2025-05-07,7:31-8:30,Dinner,The G.O.A.T
+154,2025-05-07,8:31-9:20,Try to sleep,The G.O.A.T
+155,2025-05-08,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+156,2025-05-08,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+157,2025-05-08,8:31-9:00,Play,The G.O.A.T
+158,2025-05-08,9:01-9:20,do UCMAS,The G.O.A.T
+159,2025-05-08,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+160,2025-05-08,10:31-11:00,Do anything,The G.O.A.T
+161,2025-05-08,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+162,2025-05-08,12:01-1:00,Eat,The G.O.A.T
+163,2025-05-08,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+164,2025-05-08,2:01-3:30,anything,The G.O.A.T
+165,2025-05-08,3:30-6:00,Home work,The G.O.A.T
+166,2025-05-08,6:01-7:30,Watch,The G.O.A.T
+167,2025-05-08,7:31-8:30,Dinner,The G.O.A.T
+168,2025-05-08,8:31-9:20,Try to sleep,The G.O.A.T
+169,2025-05-09,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+170,2025-05-09,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+171,2025-05-09,8:31-9:00,Play,The G.O.A.T
+172,2025-05-09,9:01-9:20,do UCMAS,The G.O.A.T
+173,2025-05-09,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+174,2025-05-09,10:31-11:00,Do anything,The G.O.A.T
+175,2025-05-09,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+176,2025-05-09,12:01-1:00,Eat,The G.O.A.T
+177,2025-05-09,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+178,2025-05-09,2:01-3:30,anything,The G.O.A.T
+179,2025-05-09,3:30-6:00,Home work,The G.O.A.T
+180,2025-05-09,6:01-7:30,Watch,The G.O.A.T
+181,2025-05-09,7:31-8:30,Dinner,The G.O.A.T
+182,2025-05-09,8:31-9:20,Try to sleep,The G.O.A.T
+183,2025-05-10,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+184,2025-05-10,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+185,2025-05-10,8:31-9:00,Play,The G.O.A.T
+186,2025-05-10,9:01-9:20,do UCMAS,The G.O.A.T
+187,2025-05-10,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+188,2025-05-10,10:31-11:00,Do anything,The G.O.A.T
+189,2025-05-10,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+190,2025-05-10,12:01-1:00,Eat,The G.O.A.T
+191,2025-05-10,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+192,2025-05-10,2:01-3:30,anything,The G.O.A.T
+193,2025-05-10,3:30-6:00,Home work,The G.O.A.T
+194,2025-05-10,6:01-7:30,Watch,The G.O.A.T
+195,2025-05-10,7:31-8:30,Dinner,The G.O.A.T
+196,2025-05-10,8:31-9:20,Try to sleep,The G.O.A.T
+197,2025-05-11,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+198,2025-05-11,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+199,2025-05-11,8:31-9:00,Play,The G.O.A.T
+200,2025-05-11,9:01-9:20,do UCMAS,The G.O.A.T
+201,2025-05-11,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+202,2025-05-11,10:31-11:00,Do anything,The G.O.A.T
+203,2025-05-11,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+204,2025-05-11,12:01-1:00,Eat,The G.O.A.T
+205,2025-05-11,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+206,2025-05-11,2:01-3:30,anything,The G.O.A.T
+207,2025-05-11,3:30-6:00,Home work,The G.O.A.T
+208,2025-05-11,6:01-7:30,Watch,The G.O.A.T
+209,2025-05-11,7:31-8:30,Dinner,The G.O.A.T
+210,2025-05-11,8:31-9:20,Try to sleep,The G.O.A.T
+211,2025-05-12,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+212,2025-05-12,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+213,2025-05-12,8:31-9:00,Play,The G.O.A.T
+214,2025-05-12,9:01-9:20,do UCMAS,The G.O.A.T
+215,2025-05-12,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+216,2025-05-12,10:31-11:00,Do anything,The G.O.A.T
+217,2025-05-12,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+218,2025-05-12,12:01-1:00,Eat,The G.O.A.T
+219,2025-05-12,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+220,2025-05-12,2:01-3:30,anything,The G.O.A.T
+221,2025-05-12,3:30-6:00,Home work,The G.O.A.T
+222,2025-05-12,6:01-7:30,Watch,The G.O.A.T
+223,2025-05-12,7:31-8:30,Dinner,The G.O.A.T
+224,2025-05-12,8:31-9:20,Try to sleep,The G.O.A.T
+225,2025-05-13,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+226,2025-05-13,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+227,2025-05-13,8:31-9:00,Play,The G.O.A.T
+228,2025-05-13,9:01-9:20,do UCMAS,The G.O.A.T
+229,2025-05-13,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+230,2025-05-13,10:31-11:00,Do anything,The G.O.A.T
+231,2025-05-13,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+232,2025-05-13,12:01-1:00,Eat,The G.O.A.T
+233,2025-05-13,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+234,2025-05-13,2:01-3:30,anything,The G.O.A.T
+235,2025-05-13,3:30-6:00,Home work,The G.O.A.T
+236,2025-05-13,6:01-7:30,Watch,The G.O.A.T
+237,2025-05-13,7:31-8:30,Dinner,The G.O.A.T
+238,2025-05-13,8:31-9:20,Try to sleep,The G.O.A.T
+239,2025-05-14,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+240,2025-05-14,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+241,2025-05-14,8:31-9:00,Play,The G.O.A.T
+242,2025-05-14,9:01-9:20,do UCMAS,The G.O.A.T
+243,2025-05-14,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+244,2025-05-14,10:31-11:00,Do anything,The G.O.A.T
+245,2025-05-14,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+246,2025-05-14,12:01-1:00,Eat,The G.O.A.T
+247,2025-05-14,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+248,2025-05-14,2:01-3:30,anything,The G.O.A.T
+249,2025-05-14,3:30-6:00,Home work,The G.O.A.T
+250,2025-05-14,6:01-7:30,Watch,The G.O.A.T
+251,2025-05-14,7:31-8:30,Dinner,The G.O.A.T
+252,2025-05-14,8:31-9:20,Try to sleep,The G.O.A.T
+253,2025-05-15,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+254,2025-05-15,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+255,2025-05-15,8:31-9:00,Play,The G.O.A.T
+256,2025-05-15,9:01-9:20,do UCMAS,The G.O.A.T
+257,2025-05-15,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+258,2025-05-15,10:31-11:00,Do anything,The G.O.A.T
+259,2025-05-15,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+260,2025-05-15,12:01-1:00,Eat,The G.O.A.T
+261,2025-05-15,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+262,2025-05-15,2:01-3:30,anything,The G.O.A.T
+263,2025-05-15,3:30-6:00,Home work,The G.O.A.T
+264,2025-05-15,6:01-7:30,Watch,The G.O.A.T
+265,2025-05-15,7:31-8:30,Dinner,The G.O.A.T
+266,2025-05-15,8:31-9:20,Try to sleep,The G.O.A.T
+267,2025-05-16,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+268,2025-05-16,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+269,2025-05-16,8:31-9:00,Play,The G.O.A.T
+270,2025-05-16,9:01-9:20,do UCMAS,The G.O.A.T
+271,2025-05-16,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+272,2025-05-16,10:31-11:00,Do anything,The G.O.A.T
+273,2025-05-16,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+274,2025-05-16,12:01-1:00,Eat,The G.O.A.T
+275,2025-05-16,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+276,2025-05-16,2:01-3:30,anything,The G.O.A.T
+277,2025-05-16,3:30-6:00,Home work,The G.O.A.T
+278,2025-05-16,6:01-7:30,Watch,The G.O.A.T
+279,2025-05-16,7:31-8:30,Dinner,The G.O.A.T
+280,2025-05-16,8:31-9:20,Try to sleep,The G.O.A.T
+281,2025-05-17,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+282,2025-05-17,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+283,2025-05-17,8:31-9:00,Play,The G.O.A.T
+284,2025-05-17,9:01-9:20,do UCMAS,The G.O.A.T
+285,2025-05-17,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+286,2025-05-17,10:31-11:00,Do anything,The G.O.A.T
+287,2025-05-17,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+288,2025-05-17,12:01-1:00,Eat,The G.O.A.T
+289,2025-05-17,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+290,2025-05-17,2:01-3:30,anything,The G.O.A.T
+291,2025-05-17,3:30-6:00,Home work,The G.O.A.T
+292,2025-05-17,6:01-7:30,Watch,The G.O.A.T
+293,2025-05-17,7:31-8:30,Dinner,The G.O.A.T
+294,2025-05-17,8:31-9:20,Try to sleep,The G.O.A.T
+295,2025-05-18,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+296,2025-05-18,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+297,2025-05-18,8:31-9:00,Play,The G.O.A.T
+298,2025-05-18,9:01-9:20,do UCMAS,The G.O.A.T
+299,2025-05-18,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+300,2025-05-18,10:31-11:00,Do anything,The G.O.A.T
+301,2025-05-18,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+302,2025-05-18,12:01-1:00,Eat,The G.O.A.T
+303,2025-05-18,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+304,2025-05-18,2:01-3:30,anything,The G.O.A.T
+305,2025-05-18,3:30-6:00,Home work,The G.O.A.T
+306,2025-05-18,6:01-7:30,Watch,The G.O.A.T
+307,2025-05-18,7:31-8:30,Dinner,The G.O.A.T
+308,2025-05-18,8:31-9:20,Try to sleep,The G.O.A.T
+309,2025-05-19,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+310,2025-05-19,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+311,2025-05-19,8:31-9:00,Play,The G.O.A.T
+312,2025-05-19,9:01-9:20,do UCMAS,The G.O.A.T
+313,2025-05-19,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+314,2025-05-19,10:31-11:00,Do anything,The G.O.A.T
+315,2025-05-19,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+316,2025-05-19,12:01-1:00,Eat,The G.O.A.T
+317,2025-05-19,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+318,2025-05-19,2:01-3:30,anything,The G.O.A.T
+319,2025-05-19,3:30-6:00,Home work,The G.O.A.T
+320,2025-05-19,6:01-7:30,Watch,The G.O.A.T
+321,2025-05-19,7:31-8:30,Dinner,The G.O.A.T
+322,2025-05-19,8:31-9:20,Try to sleep,The G.O.A.T
+323,2025-05-20,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+324,2025-05-20,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+325,2025-05-20,8:31-9:00,Play,The G.O.A.T
+326,2025-05-20,9:01-9:20,do UCMAS,The G.O.A.T
+327,2025-05-20,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+328,2025-05-20,10:31-11:00,Do anything,The G.O.A.T
+329,2025-05-20,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+330,2025-05-20,12:01-1:00,Eat,The G.O.A.T
+331,2025-05-20,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+332,2025-05-20,2:01-3:30,anything,The G.O.A.T
+333,2025-05-20,3:30-6:00,Home work,The G.O.A.T
+334,2025-05-20,6:01-7:30,Watch,The G.O.A.T
+335,2025-05-20,7:31-8:30,Dinner,The G.O.A.T
+336,2025-05-20,8:31-9:20,Try to sleep,The G.O.A.T
+337,2025-05-21,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+338,2025-05-21,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+339,2025-05-21,8:31-9:00,Play,The G.O.A.T
+340,2025-05-21,9:01-9:20,do UCMAS,The G.O.A.T
+341,2025-05-21,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+342,2025-05-21,10:31-11:00,Do anything,The G.O.A.T
+343,2025-05-21,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+344,2025-05-21,12:01-1:00,Eat,The G.O.A.T
+345,2025-05-21,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+346,2025-05-21,2:01-3:30,anything,The G.O.A.T
+347,2025-05-21,3:30-6:00,Home work,The G.O.A.T
+348,2025-05-21,6:01-7:30,Watch,The G.O.A.T
+349,2025-05-21,7:31-8:30,Dinner,The G.O.A.T
+350,2025-05-21,8:31-9:20,Try to sleep,The G.O.A.T
+351,2025-05-22,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+352,2025-05-22,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+353,2025-05-22,8:31-9:00,Play,The G.O.A.T
+354,2025-05-22,9:01-9:20,do UCMAS,The G.O.A.T
+355,2025-05-22,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+356,2025-05-22,10:31-11:00,Do anything,The G.O.A.T
+357,2025-05-22,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+358,2025-05-22,12:01-1:00,Eat,The G.O.A.T
+359,2025-05-22,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+360,2025-05-22,2:01-3:30,anything,The G.O.A.T
+361,2025-05-22,3:30-6:00,Home work,The G.O.A.T
+362,2025-05-22,6:01-7:30,Watch,The G.O.A.T
+363,2025-05-22,7:31-8:30,Dinner,The G.O.A.T
+364,2025-05-22,8:31-9:20,Try to sleep,The G.O.A.T
+365,2025-05-23,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+366,2025-05-23,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+367,2025-05-23,8:31-9:00,Play,The G.O.A.T
+368,2025-05-23,9:01-9:20,do UCMAS,The G.O.A.T
+369,2025-05-23,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+370,2025-05-23,10:31-11:00,Do anything,The G.O.A.T
+371,2025-05-23,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+372,2025-05-23,12:01-1:00,Eat,The G.O.A.T
+373,2025-05-23,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+374,2025-05-23,2:01-3:30,anything,The G.O.A.T
+375,2025-05-23,3:30-6:00,Home work,The G.O.A.T
+376,2025-05-23,6:01-7:30,Watch,The G.O.A.T
+377,2025-05-23,7:31-8:30,Dinner,The G.O.A.T
+378,2025-05-23,8:31-9:20,Try to sleep,The G.O.A.T
+379,2025-05-24,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+380,2025-05-24,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+381,2025-05-24,8:31-9:00,Play,The G.O.A.T
+382,2025-05-24,9:01-9:20,do UCMAS,The G.O.A.T
+383,2025-05-24,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+384,2025-05-24,10:31-11:00,Do anything,The G.O.A.T
+385,2025-05-24,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+386,2025-05-24,12:01-1:00,Eat,The G.O.A.T
+387,2025-05-24,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+388,2025-05-24,2:01-3:30,anything,The G.O.A.T
+389,2025-05-24,3:30-6:00,Home work,The G.O.A.T
+390,2025-05-24,6:01-7:30,Watch,The G.O.A.T
+391,2025-05-24,7:31-8:30,Dinner,The G.O.A.T
+392,2025-05-24,8:31-9:20,Try to sleep,The G.O.A.T
+393,2025-05-25,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+394,2025-05-25,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+395,2025-05-25,8:31-9:00,Play,The G.O.A.T
+396,2025-05-25,9:01-9:20,do UCMAS,The G.O.A.T
+397,2025-05-25,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+398,2025-05-25,10:31-11:00,Do anything,The G.O.A.T
+399,2025-05-25,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+400,2025-05-25,12:01-1:00,Eat,The G.O.A.T
+401,2025-05-25,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+402,2025-05-25,2:01-3:30,anything,The G.O.A.T
+403,2025-05-25,3:30-6:00,Home work,The G.O.A.T
+404,2025-05-25,6:01-7:30,Watch,The G.O.A.T
+405,2025-05-25,7:31-8:30,Dinner,The G.O.A.T
+406,2025-05-25,8:31-9:20,Try to sleep,The G.O.A.T
+407,2025-05-26,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+408,2025-05-26,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+409,2025-05-26,8:31-9:00,Play,The G.O.A.T
+410,2025-05-26,9:01-9:20,do UCMAS,The G.O.A.T
+411,2025-05-26,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+412,2025-05-26,10:31-11:00,Do anything,The G.O.A.T
+413,2025-05-26,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+414,2025-05-26,12:01-1:00,Eat,The G.O.A.T
+415,2025-05-26,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+416,2025-05-26,2:01-3:30,anything,The G.O.A.T
+417,2025-05-26,3:30-6:00,Home work,The G.O.A.T
+418,2025-05-26,6:01-7:30,Watch,The G.O.A.T
+419,2025-05-26,7:31-8:30,Dinner,The G.O.A.T
+420,2025-05-26,8:31-9:20,Try to sleep,The G.O.A.T
+421,2025-05-27,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+422,2025-05-27,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+423,2025-05-27,8:31-9:00,Play,The G.O.A.T
+424,2025-05-27,9:01-9:20,do UCMAS,The G.O.A.T
+425,2025-05-27,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+426,2025-05-27,10:31-11:00,Do anything,The G.O.A.T
+427,2025-05-27,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+428,2025-05-27,12:01-1:00,Eat,The G.O.A.T
+429,2025-05-27,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+430,2025-05-27,2:01-3:30,anything,The G.O.A.T
+431,2025-05-27,3:30-6:00,Home work,The G.O.A.T
+432,2025-05-27,6:01-7:30,Watch,The G.O.A.T
+433,2025-05-27,7:31-8:30,Dinner,The G.O.A.T
+434,2025-05-27,8:31-9:20,Try to sleep,The G.O.A.T
+435,2025-05-28,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+436,2025-05-28,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+437,2025-05-28,8:31-9:00,Play,The G.O.A.T
+438,2025-05-28,9:01-9:20,do UCMAS,The G.O.A.T
+439,2025-05-28,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+440,2025-05-28,10:31-11:00,Do anything,The G.O.A.T
+441,2025-05-28,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+442,2025-05-28,12:01-1:00,Eat,The G.O.A.T
+443,2025-05-28,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+444,2025-05-28,2:01-3:30,anything,The G.O.A.T
+445,2025-05-28,3:30-6:00,Home work,The G.O.A.T
+446,2025-05-28,6:01-7:30,Watch,The G.O.A.T
+447,2025-05-28,7:31-8:30,Dinner,The G.O.A.T
+448,2025-05-28,8:31-9:20,Try to sleep,The G.O.A.T
+449,2025-05-29,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+450,2025-05-29,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+451,2025-05-29,8:31-9:00,Play,The G.O.A.T
+452,2025-05-29,9:01-9:20,do UCMAS,The G.O.A.T
+453,2025-05-29,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+454,2025-05-29,10:31-11:00,Do anything,The G.O.A.T
+455,2025-05-29,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+456,2025-05-29,12:01-1:00,Eat,The G.O.A.T
+457,2025-05-29,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+458,2025-05-29,2:01-3:30,anything,The G.O.A.T
+459,2025-05-29,3:30-6:00,Home work,The G.O.A.T
+460,2025-05-29,6:01-7:30,Watch,The G.O.A.T
+461,2025-05-29,7:31-8:30,Dinner,The G.O.A.T
+462,2025-05-29,8:31-9:20,Try to sleep,The G.O.A.T
+463,2025-05-30,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+464,2025-05-30,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+465,2025-05-30,8:31-9:00,Play,The G.O.A.T
+466,2025-05-30,9:01-9:20,do UCMAS,The G.O.A.T
+467,2025-05-30,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+468,2025-05-30,10:31-11:00,Do anything,The G.O.A.T
+469,2025-05-30,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+470,2025-05-30,12:01-1:00,Eat,The G.O.A.T
+471,2025-05-30,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+472,2025-05-30,2:01-3:30,anything,The G.O.A.T
+473,2025-05-30,3:30-6:00,Home work,The G.O.A.T
+474,2025-05-30,6:01-7:30,Watch,The G.O.A.T
+475,2025-05-30,7:31-8:30,Dinner,The G.O.A.T
+476,2025-05-30,8:31-9:20,Try to sleep,The G.O.A.T
+477,2025-05-31,7:30-7:59,Woke up brushed made bed,The G.O.A.T
+478,2025-05-31,8:00-8:30,Go downstairs and eat breakfast,The G.O.A.T
+479,2025-05-31,8:31-9:00,Play,The G.O.A.T
+480,2025-05-31,9:01-9:20,do UCMAS,The G.O.A.T
+481,2025-05-31,9:21-10:30,Do anything like Watching drawing and More,The G.O.A.T
+482,2025-05-31,10:31-11:00,Do anything,The G.O.A.T
+483,2025-05-31,11:01-12:00,Maybe told to do homework or play outside.,The G.O.A.T
+484,2025-05-31,12:01-1:00,Eat,The G.O.A.T
+485,2025-05-31,1:01-2:00,eat if didn't eat from 12:01-1:00,The G.O.A.T
+486,2025-05-31,2:01-3:30,anything,The G.O.A.T
+487,2025-05-31,3:30-6:00,Home work,The G.O.A.T
+488,2025-05-31,6:01-7:30,Watch,The G.O.A.T
+489,2025-05-31,7:31-8:30,Dinner,The G.O.A.T
+490,2025-05-31,8:31-9:20,Try to sleep,The G.O.A.T
+491,2025-05-01,7:30-7:59,Woke up brushed made bed,sampleuser
+492,2025-05-01,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+493,2025-05-01,8:31-9:00,Play,sampleuser
+494,2025-05-01,9:01-9:20,do UCMAS,sampleuser
+495,2025-05-01,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+496,2025-05-01,10:31-11:00,Do anything,sampleuser
+497,2025-05-01,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+498,2025-05-01,12:01-1:00,Eat,sampleuser
+499,2025-05-01,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+500,2025-05-01,2:01-3:30,anything,sampleuser
+501,2025-05-01,3:30-6:00,Home work,sampleuser
+502,2025-05-01,6:01-7:30,Watch,sampleuser
+503,2025-05-01,7:31-8:30,Dinner,sampleuser
+504,2025-05-01,8:31-9:20,Try to sleep,sampleuser
+505,2025-05-02,7:30-7:59,Woke up brushed made bed,sampleuser
+506,2025-05-02,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+507,2025-05-02,8:31-9:00,Play,sampleuser
+508,2025-05-02,9:01-9:20,do UCMAS,sampleuser
+509,2025-05-02,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+510,2025-05-02,10:31-11:00,Do anything,sampleuser
+511,2025-05-02,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+512,2025-05-02,12:01-1:00,Eat,sampleuser
+513,2025-05-02,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+514,2025-05-02,2:01-3:30,anything,sampleuser
+515,2025-05-02,3:30-6:00,Home work,sampleuser
+516,2025-05-02,6:01-7:30,Watch,sampleuser
+517,2025-05-02,7:31-8:30,Dinner,sampleuser
+518,2025-05-02,8:31-9:20,Try to sleep,sampleuser
+519,2025-05-03,7:30-7:59,Woke up brushed made bed,sampleuser
+520,2025-05-03,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+521,2025-05-03,8:31-9:00,Play,sampleuser
+522,2025-05-03,9:01-9:20,do UCMAS,sampleuser
+523,2025-05-03,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+524,2025-05-03,10:31-11:00,Do anything,sampleuser
+525,2025-05-03,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+526,2025-05-03,12:01-1:00,Eat,sampleuser
+527,2025-05-03,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+528,2025-05-03,2:01-3:30,anything,sampleuser
+529,2025-05-03,3:30-6:00,Home work,sampleuser
+530,2025-05-03,6:01-7:30,Watch,sampleuser
+531,2025-05-03,7:31-8:30,Dinner,sampleuser
+532,2025-05-03,8:31-9:20,Try to sleep,sampleuser
+533,2025-05-04,7:30-7:59,Woke up brushed made bed,sampleuser
+534,2025-05-04,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+535,2025-05-04,8:31-9:00,Play,sampleuser
+536,2025-05-04,9:01-9:20,do UCMAS,sampleuser
+537,2025-05-04,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+538,2025-05-04,10:31-11:00,Do anything,sampleuser
+539,2025-05-04,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+540,2025-05-04,12:01-1:00,Eat,sampleuser
+541,2025-05-04,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+542,2025-05-04,2:01-3:30,anything,sampleuser
+543,2025-05-04,3:30-6:00,Home work,sampleuser
+544,2025-05-04,6:01-7:30,Watch,sampleuser
+545,2025-05-04,7:31-8:30,Dinner,sampleuser
+546,2025-05-04,8:31-9:20,Try to sleep,sampleuser
+547,2025-05-05,7:30-7:59,Woke up brushed made bed,sampleuser
+548,2025-05-05,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+549,2025-05-05,8:31-9:00,Play,sampleuser
+550,2025-05-05,9:01-9:20,do UCMAS,sampleuser
+551,2025-05-05,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+552,2025-05-05,10:31-11:00,Do anything,sampleuser
+553,2025-05-05,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+554,2025-05-05,12:01-1:00,Eat,sampleuser
+555,2025-05-05,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+556,2025-05-05,2:01-3:30,anything,sampleuser
+557,2025-05-05,3:30-6:00,Home work,sampleuser
+558,2025-05-05,6:01-7:30,Watch,sampleuser
+559,2025-05-05,7:31-8:30,Dinner,sampleuser
+560,2025-05-05,8:31-9:20,Try to sleep,sampleuser
+561,2025-05-06,7:30-7:59,Woke up brushed made bed,sampleuser
+562,2025-05-06,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+563,2025-05-06,8:31-9:00,Play,sampleuser
+564,2025-05-06,9:01-9:20,do UCMAS,sampleuser
+565,2025-05-06,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+566,2025-05-06,10:31-11:00,Do anything,sampleuser
+567,2025-05-06,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+568,2025-05-06,12:01-1:00,Eat,sampleuser
+569,2025-05-06,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+570,2025-05-06,2:01-3:30,anything,sampleuser
+571,2025-05-06,3:30-6:00,Home work,sampleuser
+572,2025-05-06,6:01-7:30,Watch,sampleuser
+573,2025-05-06,7:31-8:30,Dinner,sampleuser
+574,2025-05-06,8:31-9:20,Try to sleep,sampleuser
+575,2025-05-07,7:30-7:59,Woke up brushed made bed,sampleuser
+576,2025-05-07,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+577,2025-05-07,8:31-9:00,Play,sampleuser
+578,2025-05-07,9:01-9:20,do UCMAS,sampleuser
+579,2025-05-07,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+580,2025-05-07,10:31-11:00,Do anything,sampleuser
+581,2025-05-07,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+582,2025-05-07,12:01-1:00,Eat,sampleuser
+583,2025-05-07,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+584,2025-05-07,2:01-3:30,anything,sampleuser
+585,2025-05-07,3:30-6:00,Home work,sampleuser
+586,2025-05-07,6:01-7:30,Watch,sampleuser
+587,2025-05-07,7:31-8:30,Dinner,sampleuser
+588,2025-05-07,8:31-9:20,Try to sleep,sampleuser
+589,2025-05-08,7:30-7:59,Woke up brushed made bed,sampleuser
+590,2025-05-08,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+591,2025-05-08,8:31-9:00,Play,sampleuser
+592,2025-05-08,9:01-9:20,do UCMAS,sampleuser
+593,2025-05-08,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+594,2025-05-08,10:31-11:00,Do anything,sampleuser
+595,2025-05-08,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+596,2025-05-08,12:01-1:00,Eat,sampleuser
+597,2025-05-08,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+598,2025-05-08,2:01-3:30,anything,sampleuser
+599,2025-05-08,3:30-6:00,Home work,sampleuser
+600,2025-05-08,6:01-7:30,Watch,sampleuser
+601,2025-05-08,7:31-8:30,Dinner,sampleuser
+602,2025-05-08,8:31-9:20,Try to sleep,sampleuser
+603,2025-05-09,7:30-7:59,Woke up brushed made bed,sampleuser
+604,2025-05-09,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+605,2025-05-09,8:31-9:00,Play,sampleuser
+606,2025-05-09,9:01-9:20,do UCMAS,sampleuser
+607,2025-05-09,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+608,2025-05-09,10:31-11:00,Do anything,sampleuser
+609,2025-05-09,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+610,2025-05-09,12:01-1:00,Eat,sampleuser
+611,2025-05-09,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+612,2025-05-09,2:01-3:30,anything,sampleuser
+613,2025-05-09,3:30-6:00,Home work,sampleuser
+614,2025-05-09,6:01-7:30,Watch,sampleuser
+615,2025-05-09,7:31-8:30,Dinner,sampleuser
+616,2025-05-09,8:31-9:20,Try to sleep,sampleuser
+617,2025-05-10,7:30-7:59,Woke up brushed made bed,sampleuser
+618,2025-05-10,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+619,2025-05-10,8:31-9:00,Play,sampleuser
+620,2025-05-10,9:01-9:20,do UCMAS,sampleuser
+621,2025-05-10,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+622,2025-05-10,10:31-11:00,Do anything,sampleuser
+623,2025-05-10,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+624,2025-05-10,12:01-1:00,Eat,sampleuser
+625,2025-05-10,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+626,2025-05-10,2:01-3:30,anything,sampleuser
+627,2025-05-10,3:30-6:00,Home work,sampleuser
+628,2025-05-10,6:01-7:30,Watch,sampleuser
+629,2025-05-10,7:31-8:30,Dinner,sampleuser
+630,2025-05-10,8:31-9:20,Try to sleep,sampleuser
+631,2025-05-11,7:30-7:59,Woke up brushed made bed,sampleuser
+632,2025-05-11,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+633,2025-05-11,8:31-9:00,Play,sampleuser
+634,2025-05-11,9:01-9:20,do UCMAS,sampleuser
+635,2025-05-11,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+636,2025-05-11,10:31-11:00,Do anything,sampleuser
+637,2025-05-11,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+638,2025-05-11,12:01-1:00,Eat,sampleuser
+639,2025-05-11,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+640,2025-05-11,2:01-3:30,anything,sampleuser
+641,2025-05-11,3:30-6:00,Home work,sampleuser
+642,2025-05-11,6:01-7:30,Watch,sampleuser
+643,2025-05-11,7:31-8:30,Dinner,sampleuser
+644,2025-05-11,8:31-9:20,Try to sleep,sampleuser
+645,2025-05-12,7:30-7:59,Woke up brushed made bed,sampleuser
+646,2025-05-12,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+647,2025-05-12,8:31-9:00,Play,sampleuser
+648,2025-05-12,9:01-9:20,do UCMAS,sampleuser
+649,2025-05-12,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+650,2025-05-12,10:31-11:00,Do anything,sampleuser
+651,2025-05-12,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+652,2025-05-12,12:01-1:00,Eat,sampleuser
+653,2025-05-12,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+654,2025-05-12,2:01-3:30,anything,sampleuser
+655,2025-05-12,3:30-6:00,Home work,sampleuser
+656,2025-05-12,6:01-7:30,Watch,sampleuser
+657,2025-05-12,7:31-8:30,Dinner,sampleuser
+658,2025-05-12,8:31-9:20,Try to sleep,sampleuser
+659,2025-05-13,7:30-7:59,Woke up brushed made bed,sampleuser
+660,2025-05-13,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+661,2025-05-13,8:31-9:00,Play,sampleuser
+662,2025-05-13,9:01-9:20,do UCMAS,sampleuser
+663,2025-05-13,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+664,2025-05-13,10:31-11:00,Do anything,sampleuser
+665,2025-05-13,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+666,2025-05-13,12:01-1:00,Eat,sampleuser
+667,2025-05-13,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+668,2025-05-13,2:01-3:30,anything,sampleuser
+669,2025-05-13,3:30-6:00,Home work,sampleuser
+670,2025-05-13,6:01-7:30,Watch,sampleuser
+671,2025-05-13,7:31-8:30,Dinner,sampleuser
+672,2025-05-13,8:31-9:20,Try to sleep,sampleuser
+673,2025-05-14,7:30-7:59,Woke up brushed made bed,sampleuser
+674,2025-05-14,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+675,2025-05-14,8:31-9:00,Play,sampleuser
+676,2025-05-14,9:01-9:20,do UCMAS,sampleuser
+677,2025-05-14,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+678,2025-05-14,10:31-11:00,Do anything,sampleuser
+679,2025-05-14,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+680,2025-05-14,12:01-1:00,Eat,sampleuser
+681,2025-05-14,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+682,2025-05-14,2:01-3:30,anything,sampleuser
+683,2025-05-14,3:30-6:00,Home work,sampleuser
+684,2025-05-14,6:01-7:30,Watch,sampleuser
+685,2025-05-14,7:31-8:30,Dinner,sampleuser
+686,2025-05-14,8:31-9:20,Try to sleep,sampleuser
+687,2025-05-15,7:30-7:59,Woke up brushed made bed,sampleuser
+688,2025-05-15,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+689,2025-05-15,8:31-9:00,Play,sampleuser
+690,2025-05-15,9:01-9:20,do UCMAS,sampleuser
+691,2025-05-15,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+692,2025-05-15,10:31-11:00,Do anything,sampleuser
+693,2025-05-15,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+694,2025-05-15,12:01-1:00,Eat,sampleuser
+695,2025-05-15,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+696,2025-05-15,2:01-3:30,anything,sampleuser
+697,2025-05-15,3:30-6:00,Home work,sampleuser
+698,2025-05-15,6:01-7:30,Watch,sampleuser
+699,2025-05-15,7:31-8:30,Dinner,sampleuser
+700,2025-05-15,8:31-9:20,Try to sleep,sampleuser
+701,2025-05-16,7:30-7:59,Woke up brushed made bed,sampleuser
+702,2025-05-16,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+703,2025-05-16,8:31-9:00,Play,sampleuser
+704,2025-05-16,9:01-9:20,do UCMAS,sampleuser
+705,2025-05-16,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+706,2025-05-16,10:31-11:00,Do anything,sampleuser
+707,2025-05-16,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+708,2025-05-16,12:01-1:00,Eat,sampleuser
+709,2025-05-16,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+710,2025-05-16,2:01-3:30,anything,sampleuser
+711,2025-05-16,3:30-6:00,Home work,sampleuser
+712,2025-05-16,6:01-7:30,Watch,sampleuser
+713,2025-05-16,7:31-8:30,Dinner,sampleuser
+714,2025-05-16,8:31-9:20,Try to sleep,sampleuser
+715,2025-05-17,7:30-7:59,Woke up brushed made bed,sampleuser
+716,2025-05-17,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+717,2025-05-17,8:31-9:00,Play,sampleuser
+718,2025-05-17,9:01-9:20,do UCMAS,sampleuser
+719,2025-05-17,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+720,2025-05-17,10:31-11:00,Do anything,sampleuser
+721,2025-05-17,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+722,2025-05-17,12:01-1:00,Eat,sampleuser
+723,2025-05-17,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+724,2025-05-17,2:01-3:30,anything,sampleuser
+725,2025-05-17,3:30-6:00,Home work,sampleuser
+726,2025-05-17,6:01-7:30,Watch,sampleuser
+727,2025-05-17,7:31-8:30,Dinner,sampleuser
+728,2025-05-17,8:31-9:20,Try to sleep,sampleuser
+729,2025-05-18,7:30-7:59,Woke up brushed made bed,sampleuser
+730,2025-05-18,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+731,2025-05-18,8:31-9:00,Play,sampleuser
+732,2025-05-18,9:01-9:20,do UCMAS,sampleuser
+733,2025-05-18,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+734,2025-05-18,10:31-11:00,Do anything,sampleuser
+735,2025-05-18,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+736,2025-05-18,12:01-1:00,Eat,sampleuser
+737,2025-05-18,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+738,2025-05-18,2:01-3:30,anything,sampleuser
+739,2025-05-18,3:30-6:00,Home work,sampleuser
+740,2025-05-18,6:01-7:30,Watch,sampleuser
+741,2025-05-18,7:31-8:30,Dinner,sampleuser
+742,2025-05-18,8:31-9:20,Try to sleep,sampleuser
+743,2025-05-19,7:30-7:59,Woke up brushed made bed,sampleuser
+744,2025-05-19,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+745,2025-05-19,8:31-9:00,Play,sampleuser
+746,2025-05-19,9:01-9:20,do UCMAS,sampleuser
+747,2025-05-19,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+748,2025-05-19,10:31-11:00,Do anything,sampleuser
+749,2025-05-19,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+750,2025-05-19,12:01-1:00,Eat,sampleuser
+751,2025-05-19,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+752,2025-05-19,2:01-3:30,anything,sampleuser
+753,2025-05-19,3:30-6:00,Home work,sampleuser
+754,2025-05-19,6:01-7:30,Watch,sampleuser
+755,2025-05-19,7:31-8:30,Dinner,sampleuser
+756,2025-05-19,8:31-9:20,Try to sleep,sampleuser
+757,2025-05-20,7:30-7:59,Woke up brushed made bed,sampleuser
+758,2025-05-20,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+759,2025-05-20,8:31-9:00,Play,sampleuser
+760,2025-05-20,9:01-9:20,do UCMAS,sampleuser
+761,2025-05-20,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+762,2025-05-20,10:31-11:00,Do anything,sampleuser
+763,2025-05-20,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+764,2025-05-20,12:01-1:00,Eat,sampleuser
+765,2025-05-20,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+766,2025-05-20,2:01-3:30,anything,sampleuser
+767,2025-05-20,3:30-6:00,Home work,sampleuser
+768,2025-05-20,6:01-7:30,Watch,sampleuser
+769,2025-05-20,7:31-8:30,Dinner,sampleuser
+770,2025-05-20,8:31-9:20,Try to sleep,sampleuser
+771,2025-05-21,7:30-7:59,Woke up brushed made bed,sampleuser
+772,2025-05-21,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+773,2025-05-21,8:31-9:00,Play,sampleuser
+774,2025-05-21,9:01-9:20,do UCMAS,sampleuser
+775,2025-05-21,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+776,2025-05-21,10:31-11:00,Do anything,sampleuser
+777,2025-05-21,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+778,2025-05-21,12:01-1:00,Eat,sampleuser
+779,2025-05-21,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+780,2025-05-21,2:01-3:30,anything,sampleuser
+781,2025-05-21,3:30-6:00,Home work,sampleuser
+782,2025-05-21,6:01-7:30,Watch,sampleuser
+783,2025-05-21,7:31-8:30,Dinner,sampleuser
+784,2025-05-21,8:31-9:20,Try to sleep,sampleuser
+785,2025-05-22,7:30-7:59,Woke up brushed made bed,sampleuser
+786,2025-05-22,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+787,2025-05-22,8:31-9:00,Play,sampleuser
+788,2025-05-22,9:01-9:20,do UCMAS,sampleuser
+789,2025-05-22,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+790,2025-05-22,10:31-11:00,Do anything,sampleuser
+791,2025-05-22,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+792,2025-05-22,12:01-1:00,Eat,sampleuser
+793,2025-05-22,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+794,2025-05-22,2:01-3:30,anything,sampleuser
+795,2025-05-22,3:30-6:00,Home work,sampleuser
+796,2025-05-22,6:01-7:30,Watch,sampleuser
+797,2025-05-22,7:31-8:30,Dinner,sampleuser
+798,2025-05-22,8:31-9:20,Try to sleep,sampleuser
+799,2025-05-23,7:30-7:59,Woke up brushed made bed,sampleuser
+800,2025-05-23,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+801,2025-05-23,8:31-9:00,Play,sampleuser
+802,2025-05-23,9:01-9:20,do UCMAS,sampleuser
+803,2025-05-23,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+804,2025-05-23,10:31-11:00,Do anything,sampleuser
+805,2025-05-23,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+806,2025-05-23,12:01-1:00,Eat,sampleuser
+807,2025-05-23,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+808,2025-05-23,2:01-3:30,anything,sampleuser
+809,2025-05-23,3:30-6:00,Home work,sampleuser
+810,2025-05-23,6:01-7:30,Watch,sampleuser
+811,2025-05-23,7:31-8:30,Dinner,sampleuser
+812,2025-05-23,8:31-9:20,Try to sleep,sampleuser
+813,2025-05-24,7:30-7:59,Woke up brushed made bed,sampleuser
+814,2025-05-24,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+815,2025-05-24,8:31-9:00,Play,sampleuser
+816,2025-05-24,9:01-9:20,do UCMAS,sampleuser
+817,2025-05-24,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+818,2025-05-24,10:31-11:00,Do anything,sampleuser
+819,2025-05-24,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+820,2025-05-24,12:01-1:00,Eat,sampleuser
+821,2025-05-24,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+822,2025-05-24,2:01-3:30,anything,sampleuser
+823,2025-05-24,3:30-6:00,Home work,sampleuser
+824,2025-05-24,6:01-7:30,Watch,sampleuser
+825,2025-05-24,7:31-8:30,Dinner,sampleuser
+826,2025-05-24,8:31-9:20,Try to sleep,sampleuser
+827,2025-05-25,7:30-7:59,Woke up brushed made bed,sampleuser
+828,2025-05-25,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+829,2025-05-25,8:31-9:00,Play,sampleuser
+830,2025-05-25,9:01-9:20,do UCMAS,sampleuser
+831,2025-05-25,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+832,2025-05-25,10:31-11:00,Do anything,sampleuser
+833,2025-05-25,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+834,2025-05-25,12:01-1:00,Eat,sampleuser
+835,2025-05-25,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+836,2025-05-25,2:01-3:30,anything,sampleuser
+837,2025-05-25,3:30-6:00,Home work,sampleuser
+838,2025-05-25,6:01-7:30,Watch,sampleuser
+839,2025-05-25,7:31-8:30,Dinner,sampleuser
+840,2025-05-25,8:31-9:20,Try to sleep,sampleuser
+841,2025-05-26,7:30-7:59,Woke up brushed made bed,sampleuser
+842,2025-05-26,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+843,2025-05-26,8:31-9:00,Play,sampleuser
+844,2025-05-26,9:01-9:20,do UCMAS,sampleuser
+845,2025-05-26,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+846,2025-05-26,10:31-11:00,Do anything,sampleuser
+847,2025-05-26,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+848,2025-05-26,12:01-1:00,Eat,sampleuser
+849,2025-05-26,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+850,2025-05-26,2:01-3:30,anything,sampleuser
+851,2025-05-26,3:30-6:00,Home work,sampleuser
+852,2025-05-26,6:01-7:30,Watch,sampleuser
+853,2025-05-26,7:31-8:30,Dinner,sampleuser
+854,2025-05-26,8:31-9:20,Try to sleep,sampleuser
+855,2025-05-27,7:30-7:59,Woke up brushed made bed,sampleuser
+856,2025-05-27,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+857,2025-05-27,8:31-9:00,Play,sampleuser
+858,2025-05-27,9:01-9:20,do UCMAS,sampleuser
+859,2025-05-27,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+860,2025-05-27,10:31-11:00,Do anything,sampleuser
+861,2025-05-27,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+862,2025-05-27,12:01-1:00,Eat,sampleuser
+863,2025-05-27,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+864,2025-05-27,2:01-3:30,anything,sampleuser
+865,2025-05-27,3:30-6:00,Home work,sampleuser
+866,2025-05-27,6:01-7:30,Watch,sampleuser
+867,2025-05-27,7:31-8:30,Dinner,sampleuser
+868,2025-05-27,8:31-9:20,Try to sleep,sampleuser
+869,2025-05-28,7:30-7:59,Woke up brushed made bed,sampleuser
+870,2025-05-28,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+871,2025-05-28,8:31-9:00,Play,sampleuser
+872,2025-05-28,9:01-9:20,do UCMAS,sampleuser
+873,2025-05-28,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+874,2025-05-28,10:31-11:00,Do anything,sampleuser
+875,2025-05-28,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+876,2025-05-28,12:01-1:00,Eat,sampleuser
+877,2025-05-28,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+878,2025-05-28,2:01-3:30,anything,sampleuser
+879,2025-05-28,3:30-6:00,Home work,sampleuser
+880,2025-05-28,6:01-7:30,Watch,sampleuser
+881,2025-05-28,7:31-8:30,Dinner,sampleuser
+882,2025-05-28,8:31-9:20,Try to sleep,sampleuser
+883,2025-05-29,7:30-7:59,Woke up brushed made bed,sampleuser
+884,2025-05-29,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+885,2025-05-29,8:31-9:00,Play,sampleuser
+886,2025-05-29,9:01-9:20,do UCMAS,sampleuser
+887,2025-05-29,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+888,2025-05-29,10:31-11:00,Do anything,sampleuser
+889,2025-05-29,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+890,2025-05-29,12:01-1:00,Eat,sampleuser
+891,2025-05-29,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+892,2025-05-29,2:01-3:30,anything,sampleuser
+893,2025-05-29,3:30-6:00,Home work,sampleuser
+894,2025-05-29,6:01-7:30,Watch,sampleuser
+895,2025-05-29,7:31-8:30,Dinner,sampleuser
+896,2025-05-29,8:31-9:20,Try to sleep,sampleuser
+897,2025-05-30,7:30-7:59,Woke up brushed made bed,sampleuser
+898,2025-05-30,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+899,2025-05-30,8:31-9:00,Play,sampleuser
+900,2025-05-30,9:01-9:20,do UCMAS,sampleuser
+901,2025-05-30,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+902,2025-05-30,10:31-11:00,Do anything,sampleuser
+903,2025-05-30,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+904,2025-05-30,12:01-1:00,Eat,sampleuser
+905,2025-05-30,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+906,2025-05-30,2:01-3:30,anything,sampleuser
+907,2025-05-30,3:30-6:00,Home work,sampleuser
+908,2025-05-30,6:01-7:30,Watch,sampleuser
+909,2025-05-30,7:31-8:30,Dinner,sampleuser
+910,2025-05-30,8:31-9:20,Try to sleep,sampleuser
+911,2025-05-31,7:30-7:59,Woke up brushed made bed,sampleuser
+912,2025-05-31,8:00-8:30,Go downstairs and eat breakfast,sampleuser
+913,2025-05-31,8:31-9:00,Play,sampleuser
+914,2025-05-31,9:01-9:20,do UCMAS,sampleuser
+915,2025-05-31,9:21-10:30,Do anything like Watching drawing and More,sampleuser
+916,2025-05-31,10:31-11:00,Do anything,sampleuser
+917,2025-05-31,11:01-12:00,Maybe told to do homework or play outside.,sampleuser
+918,2025-05-31,12:01-1:00,Eat,sampleuser
+919,2025-05-31,1:01-2:00,eat if didn't eat from 12:01-1:00,sampleuser
+920,2025-05-31,2:01-3:30,anything,sampleuser
+921,2025-05-31,3:30-6:00,Home work,sampleuser
+922,2025-05-31,6:01-7:30,Watch,sampleuser
+923,2025-05-31,7:31-8:30,Dinner,sampleuser
+924,2025-05-31,8:31-9:20,Try to sleep,sampleuser
+925,2025-05-01,7:30-7:59,Woke up brushed made bed,samadhi
+926,2025-05-01,8:00-8:30,Go downstairs and eat breakfast,samadhi
+927,2025-05-01,8:31-9:00,Play,samadhi
+928,2025-05-01,9:01-9:20,do UCMAS,samadhi
+929,2025-05-01,9:21-10:30,Do anything like Watching drawing and More,samadhi
+930,2025-05-01,10:31-11:00,Do anything,samadhi
+931,2025-05-01,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+932,2025-05-01,12:01-1:00,Eat,samadhi
+933,2025-05-01,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+934,2025-05-01,2:01-3:30,anything,samadhi
+935,2025-05-01,3:30-6:00,Home work,samadhi
+936,2025-05-01,6:01-7:30,Watch,samadhi
+937,2025-05-01,7:31-8:30,Dinner,samadhi
+938,2025-05-01,8:31-9:20,Try to sleep,samadhi
+939,2025-05-02,7:30-7:59,Woke up brushed made bed,samadhi
+940,2025-05-02,8:00-8:30,Go downstairs and eat breakfast,samadhi
+941,2025-05-02,8:31-9:00,Play,samadhi
+942,2025-05-02,9:01-9:20,do UCMAS,samadhi
+943,2025-05-02,9:21-10:30,Do anything like Watching drawing and More,samadhi
+944,2025-05-02,10:31-11:00,Do anything,samadhi
+945,2025-05-02,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+946,2025-05-02,12:01-1:00,Eat,samadhi
+947,2025-05-02,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+948,2025-05-02,2:01-3:30,anything,samadhi
+949,2025-05-02,3:30-6:00,Home work,samadhi
+950,2025-05-02,6:01-7:30,Watch,samadhi
+951,2025-05-02,7:31-8:30,Dinner,samadhi
+952,2025-05-02,8:31-9:20,Try to sleep,samadhi
+953,2025-05-03,7:30-7:59,Woke up brushed made bed,samadhi
+954,2025-05-03,8:00-8:30,Go downstairs and eat breakfast,samadhi
+955,2025-05-03,8:31-9:00,Play,samadhi
+956,2025-05-03,9:01-9:20,do UCMAS,samadhi
+957,2025-05-03,9:21-10:30,Do anything like Watching drawing and More,samadhi
+958,2025-05-03,10:31-11:00,Do anything,samadhi
+959,2025-05-03,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+960,2025-05-03,12:01-1:00,Eat,samadhi
+961,2025-05-03,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+962,2025-05-03,2:01-3:30,anything,samadhi
+963,2025-05-03,3:30-6:00,Home work,samadhi
+964,2025-05-03,6:01-7:30,Watch,samadhi
+965,2025-05-03,7:31-8:30,Dinner,samadhi
+966,2025-05-03,8:31-9:20,Try to sleep,samadhi
+967,2025-05-04,7:30-7:59,Woke up brushed made bed,samadhi
+968,2025-05-04,8:00-8:30,Go downstairs and eat breakfast,samadhi
+969,2025-05-04,8:31-9:00,Play,samadhi
+970,2025-05-04,9:01-9:20,do UCMAS,samadhi
+971,2025-05-04,9:21-10:30,Do anything like Watching drawing and More,samadhi
+972,2025-05-04,10:31-11:00,Do anything,samadhi
+973,2025-05-04,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+974,2025-05-04,12:01-1:00,Eat,samadhi
+975,2025-05-04,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+976,2025-05-04,2:01-3:30,anything,samadhi
+977,2025-05-04,3:30-6:00,Home work,samadhi
+978,2025-05-04,6:01-7:30,Watch,samadhi
+979,2025-05-04,7:31-8:30,Dinner,samadhi
+980,2025-05-04,8:31-9:20,Try to sleep,samadhi
+981,2025-05-05,7:30-7:59,Woke up brushed made bed,samadhi
+982,2025-05-05,8:00-8:30,Go downstairs and eat breakfast,samadhi
+983,2025-05-05,8:31-9:00,Play,samadhi
+984,2025-05-05,9:01-9:20,do UCMAS,samadhi
+985,2025-05-05,9:21-10:30,Do anything like Watching drawing and More,samadhi
+986,2025-05-05,10:31-11:00,Do anything,samadhi
+987,2025-05-05,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+988,2025-05-05,12:01-1:00,Eat,samadhi
+989,2025-05-05,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+990,2025-05-05,2:01-3:30,anything,samadhi
+991,2025-05-05,3:30-6:00,Home work,samadhi
+992,2025-05-05,6:01-7:30,Watch,samadhi
+993,2025-05-05,7:31-8:30,Dinner,samadhi
+994,2025-05-05,8:31-9:20,Try to sleep,samadhi
+995,2025-05-06,7:30-7:59,Woke up brushed made bed,samadhi
+996,2025-05-06,8:00-8:30,Go downstairs and eat breakfast,samadhi
+997,2025-05-06,8:31-9:00,Play,samadhi
+998,2025-05-06,9:01-9:20,do UCMAS,samadhi
+999,2025-05-06,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1000,2025-05-06,10:31-11:00,Do anything,samadhi
+1001,2025-05-06,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1002,2025-05-06,12:01-1:00,Eat,samadhi
+1003,2025-05-06,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1004,2025-05-06,2:01-3:30,anything,samadhi
+1005,2025-05-06,3:30-6:00,Home work,samadhi
+1006,2025-05-06,6:01-7:30,Watch,samadhi
+1007,2025-05-06,7:31-8:30,Dinner,samadhi
+1008,2025-05-06,8:31-9:20,Try to sleep,samadhi
+1009,2025-05-07,7:30-7:59,Woke up brushed made bed,samadhi
+1010,2025-05-07,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1011,2025-05-07,8:31-9:00,Play,samadhi
+1012,2025-05-07,9:01-9:20,do UCMAS,samadhi
+1013,2025-05-07,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1014,2025-05-07,10:31-11:00,Do anything,samadhi
+1015,2025-05-07,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1016,2025-05-07,12:01-1:00,Eat,samadhi
+1017,2025-05-07,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1018,2025-05-07,2:01-3:30,anything,samadhi
+1019,2025-05-07,3:30-6:00,Home work,samadhi
+1020,2025-05-07,6:01-7:30,Watch,samadhi
+1021,2025-05-07,7:31-8:30,Dinner,samadhi
+1022,2025-05-07,8:31-9:20,Try to sleep,samadhi
+1023,2025-05-08,7:30-7:59,Woke up brushed made bed,samadhi
+1024,2025-05-08,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1025,2025-05-08,8:31-9:00,Play,samadhi
+1026,2025-05-08,9:01-9:20,do UCMAS,samadhi
+1027,2025-05-08,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1028,2025-05-08,10:31-11:00,Do anything,samadhi
+1029,2025-05-08,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1030,2025-05-08,12:01-1:00,Eat,samadhi
+1031,2025-05-08,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1032,2025-05-08,2:01-3:30,anything,samadhi
+1033,2025-05-08,3:30-6:00,Home work,samadhi
+1034,2025-05-08,6:01-7:30,Watch,samadhi
+1035,2025-05-08,7:31-8:30,Dinner,samadhi
+1036,2025-05-08,8:31-9:20,Try to sleep,samadhi
+1037,2025-05-09,7:30-7:59,Woke up brushed made bed,samadhi
+1038,2025-05-09,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1039,2025-05-09,8:31-9:00,Play,samadhi
+1040,2025-05-09,9:01-9:20,do UCMAS,samadhi
+1041,2025-05-09,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1042,2025-05-09,10:31-11:00,Do anything,samadhi
+1043,2025-05-09,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1044,2025-05-09,12:01-1:00,Eat,samadhi
+1045,2025-05-09,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1046,2025-05-09,2:01-3:30,anything,samadhi
+1047,2025-05-09,3:30-6:00,Home work,samadhi
+1048,2025-05-09,6:01-7:30,Watch,samadhi
+1049,2025-05-09,7:31-8:30,Dinner,samadhi
+1050,2025-05-09,8:31-9:20,Try to sleep,samadhi
+1051,2025-05-10,7:30-7:59,Woke up brushed made bed,samadhi
+1052,2025-05-10,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1053,2025-05-10,8:31-9:00,Play,samadhi
+1054,2025-05-10,9:01-9:20,do UCMAS,samadhi
+1055,2025-05-10,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1056,2025-05-10,10:31-11:00,Do anything,samadhi
+1057,2025-05-10,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1058,2025-05-10,12:01-1:00,Eat,samadhi
+1059,2025-05-10,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1060,2025-05-10,2:01-3:30,anything,samadhi
+1061,2025-05-10,3:30-6:00,Home work,samadhi
+1062,2025-05-10,6:01-7:30,Watch,samadhi
+1063,2025-05-10,7:31-8:30,Dinner,samadhi
+1064,2025-05-10,8:31-9:20,Try to sleep,samadhi
+1065,2025-05-11,7:30-7:59,Woke up brushed made bed,samadhi
+1066,2025-05-11,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1067,2025-05-11,8:31-9:00,Play,samadhi
+1068,2025-05-11,9:01-9:20,do UCMAS,samadhi
+1069,2025-05-11,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1070,2025-05-11,10:31-11:00,Do anything,samadhi
+1071,2025-05-11,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1072,2025-05-11,12:01-1:00,Eat,samadhi
+1073,2025-05-11,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1074,2025-05-11,2:01-3:30,anything,samadhi
+1075,2025-05-11,3:30-6:00,Home work,samadhi
+1076,2025-05-11,6:01-7:30,Watch,samadhi
+1077,2025-05-11,7:31-8:30,Dinner,samadhi
+1078,2025-05-11,8:31-9:20,Try to sleep,samadhi
+1079,2025-05-12,7:30-7:59,Woke up brushed made bed,samadhi
+1080,2025-05-12,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1081,2025-05-12,8:31-9:00,Play,samadhi
+1082,2025-05-12,9:01-9:20,do UCMAS,samadhi
+1083,2025-05-12,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1084,2025-05-12,10:31-11:00,Do anything,samadhi
+1085,2025-05-12,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1086,2025-05-12,12:01-1:00,Eat,samadhi
+1087,2025-05-12,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1088,2025-05-12,2:01-3:30,anything,samadhi
+1089,2025-05-12,3:30-6:00,Home work,samadhi
+1090,2025-05-12,6:01-7:30,Watch,samadhi
+1091,2025-05-12,7:31-8:30,Dinner,samadhi
+1092,2025-05-12,8:31-9:20,Try to sleep,samadhi
+1093,2025-05-13,7:30-7:59,Woke up brushed made bed,samadhi
+1094,2025-05-13,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1095,2025-05-13,8:31-9:00,Play,samadhi
+1096,2025-05-13,9:01-9:20,do UCMAS,samadhi
+1097,2025-05-13,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1098,2025-05-13,10:31-11:00,Do anything,samadhi
+1099,2025-05-13,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1100,2025-05-13,12:01-1:00,Eat,samadhi
+1101,2025-05-13,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1102,2025-05-13,2:01-3:30,anything,samadhi
+1103,2025-05-13,3:30-6:00,Home work,samadhi
+1104,2025-05-13,6:01-7:30,Watch,samadhi
+1105,2025-05-13,7:31-8:30,Dinner,samadhi
+1106,2025-05-13,8:31-9:20,Try to sleep,samadhi
+1107,2025-05-14,7:30-7:59,Woke up brushed made bed,samadhi
+1108,2025-05-14,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1109,2025-05-14,8:31-9:00,Play,samadhi
+1110,2025-05-14,9:01-9:20,do UCMAS,samadhi
+1111,2025-05-14,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1112,2025-05-14,10:31-11:00,Do anything,samadhi
+1113,2025-05-14,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1114,2025-05-14,12:01-1:00,Eat,samadhi
+1115,2025-05-14,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1116,2025-05-14,2:01-3:30,anything,samadhi
+1117,2025-05-14,3:30-6:00,Home work,samadhi
+1118,2025-05-14,6:01-7:30,Watch,samadhi
+1119,2025-05-14,7:31-8:30,Dinner,samadhi
+1120,2025-05-14,8:31-9:20,Try to sleep,samadhi
+1121,2025-05-15,7:30-7:59,Woke up brushed made bed,samadhi
+1122,2025-05-15,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1123,2025-05-15,8:31-9:00,Play,samadhi
+1124,2025-05-15,9:01-9:20,do UCMAS,samadhi
+1125,2025-05-15,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1126,2025-05-15,10:31-11:00,Do anything,samadhi
+1127,2025-05-15,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1128,2025-05-15,12:01-1:00,Eat,samadhi
+1129,2025-05-15,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1130,2025-05-15,2:01-3:30,anything,samadhi
+1131,2025-05-15,3:30-6:00,Home work,samadhi
+1132,2025-05-15,6:01-7:30,Watch,samadhi
+1133,2025-05-15,7:31-8:30,Dinner,samadhi
+1134,2025-05-15,8:31-9:20,Try to sleep,samadhi
+1135,2025-05-16,7:30-7:59,Woke up brushed made bed,samadhi
+1136,2025-05-16,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1137,2025-05-16,8:31-9:00,Play,samadhi
+1138,2025-05-16,9:01-9:20,do UCMAS,samadhi
+1139,2025-05-16,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1140,2025-05-16,10:31-11:00,Do anything,samadhi
+1141,2025-05-16,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1142,2025-05-16,12:01-1:00,Eat,samadhi
+1143,2025-05-16,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1144,2025-05-16,2:01-3:30,anything,samadhi
+1145,2025-05-16,3:30-6:00,Home work,samadhi
+1146,2025-05-16,6:01-7:30,Watch,samadhi
+1147,2025-05-16,7:31-8:30,Dinner,samadhi
+1148,2025-05-16,8:31-9:20,Try to sleep,samadhi
+1149,2025-05-17,7:30-7:59,Woke up brushed made bed,samadhi
+1150,2025-05-17,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1151,2025-05-17,8:31-9:00,Play,samadhi
+1152,2025-05-17,9:01-9:20,do UCMAS,samadhi
+1153,2025-05-17,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1154,2025-05-17,10:31-11:00,Do anything,samadhi
+1155,2025-05-17,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1156,2025-05-17,12:01-1:00,Eat,samadhi
+1157,2025-05-17,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1158,2025-05-17,2:01-3:30,anything,samadhi
+1159,2025-05-17,3:30-6:00,Home work,samadhi
+1160,2025-05-17,6:01-7:30,Watch,samadhi
+1161,2025-05-17,7:31-8:30,Dinner,samadhi
+1162,2025-05-17,8:31-9:20,Try to sleep,samadhi
+1163,2025-05-18,7:30-7:59,Woke up brushed made bed,samadhi
+1164,2025-05-18,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1165,2025-05-18,8:31-9:00,Play,samadhi
+1166,2025-05-18,9:01-9:20,do UCMAS,samadhi
+1167,2025-05-18,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1168,2025-05-18,10:31-11:00,Do anything,samadhi
+1169,2025-05-18,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1170,2025-05-18,12:01-1:00,Eat,samadhi
+1171,2025-05-18,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1172,2025-05-18,2:01-3:30,anything,samadhi
+1173,2025-05-18,3:30-6:00,Home work,samadhi
+1174,2025-05-18,6:01-7:30,Watch,samadhi
+1175,2025-05-18,7:31-8:30,Dinner,samadhi
+1176,2025-05-18,8:31-9:20,Try to sleep,samadhi
+1177,2025-05-19,7:30-7:59,Woke up brushed made bed,samadhi
+1178,2025-05-19,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1179,2025-05-19,8:31-9:00,Play,samadhi
+1180,2025-05-19,9:01-9:20,do UCMAS,samadhi
+1181,2025-05-19,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1182,2025-05-19,10:31-11:00,Do anything,samadhi
+1183,2025-05-19,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1184,2025-05-19,12:01-1:00,Eat,samadhi
+1185,2025-05-19,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1186,2025-05-19,2:01-3:30,anything,samadhi
+1187,2025-05-19,3:30-6:00,Home work,samadhi
+1188,2025-05-19,6:01-7:30,Watch,samadhi
+1189,2025-05-19,7:31-8:30,Dinner,samadhi
+1190,2025-05-19,8:31-9:20,Try to sleep,samadhi
+1191,2025-05-20,7:30-7:59,Woke up brushed made bed,samadhi
+1192,2025-05-20,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1193,2025-05-20,8:31-9:00,Play,samadhi
+1194,2025-05-20,9:01-9:20,do UCMAS,samadhi
+1195,2025-05-20,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1196,2025-05-20,10:31-11:00,Do anything,samadhi
+1197,2025-05-20,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1198,2025-05-20,12:01-1:00,Eat,samadhi
+1199,2025-05-20,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1200,2025-05-20,2:01-3:30,anything,samadhi
+1201,2025-05-20,3:30-6:00,Home work,samadhi
+1202,2025-05-20,6:01-7:30,Watch,samadhi
+1203,2025-05-20,7:31-8:30,Dinner,samadhi
+1204,2025-05-20,8:31-9:20,Try to sleep,samadhi
+1205,2025-05-21,7:30-7:59,Woke up brushed made bed,samadhi
+1206,2025-05-21,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1207,2025-05-21,8:31-9:00,Play,samadhi
+1208,2025-05-21,9:01-9:20,do UCMAS,samadhi
+1209,2025-05-21,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1210,2025-05-21,10:31-11:00,Do anything,samadhi
+1211,2025-05-21,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1212,2025-05-21,12:01-1:00,Eat,samadhi
+1213,2025-05-21,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1214,2025-05-21,2:01-3:30,anything,samadhi
+1215,2025-05-21,3:30-6:00,Home work,samadhi
+1216,2025-05-21,6:01-7:30,Watch,samadhi
+1217,2025-05-21,7:31-8:30,Dinner,samadhi
+1218,2025-05-21,8:31-9:20,Try to sleep,samadhi
+1219,2025-05-22,7:30-7:59,Woke up brushed made bed,samadhi
+1220,2025-05-22,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1221,2025-05-22,8:31-9:00,Play,samadhi
+1222,2025-05-22,9:01-9:20,do UCMAS,samadhi
+1223,2025-05-22,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1224,2025-05-22,10:31-11:00,Do anything,samadhi
+1225,2025-05-22,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1226,2025-05-22,12:01-1:00,Eat,samadhi
+1227,2025-05-22,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1228,2025-05-22,2:01-3:30,anything,samadhi
+1229,2025-05-22,3:30-6:00,Home work,samadhi
+1230,2025-05-22,6:01-7:30,Watch,samadhi
+1231,2025-05-22,7:31-8:30,Dinner,samadhi
+1232,2025-05-22,8:31-9:20,Try to sleep,samadhi
+1233,2025-05-23,7:30-7:59,Woke up brushed made bed,samadhi
+1234,2025-05-23,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1235,2025-05-23,8:31-9:00,Play,samadhi
+1236,2025-05-23,9:01-9:20,do UCMAS,samadhi
+1237,2025-05-23,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1238,2025-05-23,10:31-11:00,Do anything,samadhi
+1239,2025-05-23,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1240,2025-05-23,12:01-1:00,Eat,samadhi
+1241,2025-05-23,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1242,2025-05-23,2:01-3:30,anything,samadhi
+1243,2025-05-23,3:30-6:00,Home work,samadhi
+1244,2025-05-23,6:01-7:30,Watch,samadhi
+1245,2025-05-23,7:31-8:30,Dinner,samadhi
+1246,2025-05-23,8:31-9:20,Try to sleep,samadhi
+1247,2025-05-24,7:30-7:59,Woke up brushed made bed,samadhi
+1248,2025-05-24,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1249,2025-05-24,8:31-9:00,Play,samadhi
+1250,2025-05-24,9:01-9:20,do UCMAS,samadhi
+1251,2025-05-24,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1252,2025-05-24,10:31-11:00,Do anything,samadhi
+1253,2025-05-24,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1254,2025-05-24,12:01-1:00,Eat,samadhi
+1255,2025-05-24,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1256,2025-05-24,2:01-3:30,anything,samadhi
+1257,2025-05-24,3:30-6:00,Home work,samadhi
+1258,2025-05-24,6:01-7:30,Watch,samadhi
+1259,2025-05-24,7:31-8:30,Dinner,samadhi
+1260,2025-05-24,8:31-9:20,Try to sleep,samadhi
+1261,2025-05-25,7:30-7:59,Woke up brushed made bed,samadhi
+1262,2025-05-25,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1263,2025-05-25,8:31-9:00,Play,samadhi
+1264,2025-05-25,9:01-9:20,do UCMAS,samadhi
+1265,2025-05-25,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1266,2025-05-25,10:31-11:00,Do anything,samadhi
+1267,2025-05-25,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1268,2025-05-25,12:01-1:00,Eat,samadhi
+1269,2025-05-25,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1270,2025-05-25,2:01-3:30,anything,samadhi
+1271,2025-05-25,3:30-6:00,Home work,samadhi
+1272,2025-05-25,6:01-7:30,Watch,samadhi
+1273,2025-05-25,7:31-8:30,Dinner,samadhi
+1274,2025-05-25,8:31-9:20,Try to sleep,samadhi
+1275,2025-05-26,7:30-7:59,Woke up brushed made bed,samadhi
+1276,2025-05-26,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1277,2025-05-26,8:31-9:00,Play,samadhi
+1278,2025-05-26,9:01-9:20,do UCMAS,samadhi
+1279,2025-05-26,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1280,2025-05-26,10:31-11:00,Do anything,samadhi
+1281,2025-05-26,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1282,2025-05-26,12:01-1:00,Eat,samadhi
+1283,2025-05-26,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1284,2025-05-26,2:01-3:30,anything,samadhi
+1285,2025-05-26,3:30-6:00,Home work,samadhi
+1286,2025-05-26,6:01-7:30,Watch,samadhi
+1287,2025-05-26,7:31-8:30,Dinner,samadhi
+1288,2025-05-26,8:31-9:20,Try to sleep,samadhi
+1289,2025-05-27,7:30-7:59,Woke up brushed made bed,samadhi
+1290,2025-05-27,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1291,2025-05-27,8:31-9:00,Play,samadhi
+1292,2025-05-27,9:01-9:20,do UCMAS,samadhi
+1293,2025-05-27,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1294,2025-05-27,10:31-11:00,Do anything,samadhi
+1295,2025-05-27,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1296,2025-05-27,12:01-1:00,Eat,samadhi
+1297,2025-05-27,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1298,2025-05-27,2:01-3:30,anything,samadhi
+1299,2025-05-27,3:30-6:00,Home work,samadhi
+1300,2025-05-27,6:01-7:30,Watch,samadhi
+1301,2025-05-27,7:31-8:30,Dinner,samadhi
+1302,2025-05-27,8:31-9:20,Try to sleep,samadhi
+1303,2025-05-28,7:30-7:59,Woke up brushed made bed,samadhi
+1304,2025-05-28,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1305,2025-05-28,8:31-9:00,Play,samadhi
+1306,2025-05-28,9:01-9:20,do UCMAS,samadhi
+1307,2025-05-28,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1308,2025-05-28,10:31-11:00,Do anything,samadhi
+1309,2025-05-28,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1310,2025-05-28,12:01-1:00,Eat,samadhi
+1311,2025-05-28,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1312,2025-05-28,2:01-3:30,anything,samadhi
+1313,2025-05-28,3:30-6:00,Home work,samadhi
+1314,2025-05-28,6:01-7:30,Watch,samadhi
+1315,2025-05-28,7:31-8:30,Dinner,samadhi
+1316,2025-05-28,8:31-9:20,Try to sleep,samadhi
+1317,2025-05-29,7:30-7:59,Woke up brushed made bed,samadhi
+1318,2025-05-29,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1319,2025-05-29,8:31-9:00,Play,samadhi
+1320,2025-05-29,9:01-9:20,do UCMAS,samadhi
+1321,2025-05-29,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1322,2025-05-29,10:31-11:00,Do anything,samadhi
+1323,2025-05-29,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1324,2025-05-29,12:01-1:00,Eat,samadhi
+1325,2025-05-29,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1326,2025-05-29,2:01-3:30,anything,samadhi
+1327,2025-05-29,3:30-6:00,Home work,samadhi
+1328,2025-05-29,6:01-7:30,Watch,samadhi
+1329,2025-05-29,7:31-8:30,Dinner,samadhi
+1330,2025-05-29,8:31-9:20,Try to sleep,samadhi
+1331,2025-05-30,7:30-7:59,Woke up brushed made bed,samadhi
+1332,2025-05-30,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1333,2025-05-30,8:31-9:00,Play,samadhi
+1334,2025-05-30,9:01-9:20,do UCMAS,samadhi
+1335,2025-05-30,9:21-10:30,Do anything like Watching drawing and More,samadhi
+1336,2025-05-30,10:31-11:00,Do anything,samadhi
+1337,2025-05-30,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1338,2025-05-30,12:01-1:00,Eat,samadhi
+1339,2025-05-30,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1340,2025-05-30,2:01-3:30,anything,samadhi
+1341,2025-05-30,3:30-6:00,Home work,samadhi
+1342,2025-05-30,6:01-7:30,Watch,samadhi
+1343,2025-05-30,7:31-8:30,Dinner,samadhi
+1344,2025-05-30,8:31-9:20,Try to sleep,samadhi
+1345,2025-05-31,7:30-7:59,Woke up brushed made bed,samadhi
+1346,2025-05-31,8:00-8:30,Go downstairs and eat breakfast,samadhi
+1347,2025-05-31,8:31-9:00,Play,samadhi
+1348,2025-05-31,9:01-9:20,do UCMAS,samadhi
+1350,2025-05-31,10:31-11:00,Do anything,samadhi
+1351,2025-05-31,11:01-12:00,Maybe told to do homework or play outside.,samadhi
+1352,2025-05-31,12:01-1:00,Eat,samadhi
+1353,2025-05-31,1:01-2:00,eat if didn't eat from 12:01-1:00,samadhi
+1354,2025-05-31,2:01-3:30,anything,samadhi
+1355,2025-05-31,3:30-6:00,Home work,samadhi
+1356,2025-05-31,6:01-7:30,Watch,samadhi
+1357,2025-05-31,7:31-8:30,Dinner,samadhi
+1358,2025-05-31,8:31-9:20,Try to sleep,samadhi
+1359,2025-05-01,7:30-7:59,Woke up brushed made bed,Bela 
+1360,2025-05-01,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1361,2025-05-01,8:31-9:00,Play,Bela 
+1362,2025-05-01,9:01-9:20,do UCMAS,Bela 
+1363,2025-05-01,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1364,2025-05-01,10:31-11:00,Do anything,Bela 
+1365,2025-05-01,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1366,2025-05-01,12:01-1:00,Eat,Bela 
+1367,2025-05-01,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1368,2025-05-01,2:01-3:30,anything,Bela 
+1369,2025-05-01,3:30-6:00,Home work,Bela 
+1370,2025-05-01,6:01-7:30,Watch,Bela 
+1371,2025-05-01,7:31-8:30,Dinner,Bela 
+1372,2025-05-01,8:31-9:20,Try to sleep,Bela 
+1373,2025-05-02,7:30-7:59,Woke up brushed made bed,Bela 
+1374,2025-05-02,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1375,2025-05-02,8:31-9:00,Play,Bela 
+1376,2025-05-02,9:01-9:20,do UCMAS,Bela 
+1377,2025-05-02,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1378,2025-05-02,10:31-11:00,Do anything,Bela 
+1379,2025-05-02,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1380,2025-05-02,12:01-1:00,Eat,Bela 
+1381,2025-05-02,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1382,2025-05-02,2:01-3:30,anything,Bela 
+1383,2025-05-02,3:30-6:00,Home work,Bela 
+1384,2025-05-02,6:01-7:30,Watch,Bela 
+1385,2025-05-02,7:31-8:30,Dinner,Bela 
+1386,2025-05-02,8:31-9:20,Try to sleep,Bela 
+1387,2025-05-03,7:30-7:59,Woke up brushed made bed,Bela 
+1388,2025-05-03,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1389,2025-05-03,8:31-9:00,Play,Bela 
+1390,2025-05-03,9:01-9:20,do UCMAS,Bela 
+1391,2025-05-03,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1392,2025-05-03,10:31-11:00,Do anything,Bela 
+1393,2025-05-03,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1394,2025-05-03,12:01-1:00,Eat,Bela 
+1395,2025-05-03,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1396,2025-05-03,2:01-3:30,anything,Bela 
+1397,2025-05-03,3:30-6:00,Home work,Bela 
+1398,2025-05-03,6:01-7:30,Watch,Bela 
+1399,2025-05-03,7:31-8:30,Dinner,Bela 
+1400,2025-05-03,8:31-9:20,Try to sleep,Bela 
+1401,2025-05-04,7:30-7:59,Woke up brushed made bed,Bela 
+1402,2025-05-04,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1403,2025-05-04,8:31-9:00,Play,Bela 
+1404,2025-05-04,9:01-9:20,do UCMAS,Bela 
+1405,2025-05-04,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1406,2025-05-04,10:31-11:00,Do anything,Bela 
+1407,2025-05-04,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1408,2025-05-04,12:01-1:00,Eat,Bela 
+1409,2025-05-04,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1410,2025-05-04,2:01-3:30,anything,Bela 
+1411,2025-05-04,3:30-6:00,Home work,Bela 
+1412,2025-05-04,6:01-7:30,Watch,Bela 
+1413,2025-05-04,7:31-8:30,Dinner,Bela 
+1414,2025-05-04,8:31-9:20,Try to sleep,Bela 
+1415,2025-05-05,7:30-7:59,Woke up brushed made bed,Bela 
+1416,2025-05-05,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1417,2025-05-05,8:31-9:00,Play,Bela 
+1418,2025-05-05,9:01-9:20,do UCMAS,Bela 
+1419,2025-05-05,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1420,2025-05-05,10:31-11:00,Do anything,Bela 
+1421,2025-05-05,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1422,2025-05-05,12:01-1:00,Eat,Bela 
+1423,2025-05-05,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1424,2025-05-05,2:01-3:30,anything,Bela 
+1425,2025-05-05,3:30-6:00,Home work,Bela 
+1426,2025-05-05,6:01-7:30,Watch,Bela 
+1427,2025-05-05,7:31-8:30,Dinner,Bela 
+1428,2025-05-05,8:31-9:20,Try to sleep,Bela 
+1429,2025-05-06,7:30-7:59,Woke up brushed made bed,Bela 
+1430,2025-05-06,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1431,2025-05-06,8:31-9:00,Play,Bela 
+1432,2025-05-06,9:01-9:20,do UCMAS,Bela 
+1433,2025-05-06,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1434,2025-05-06,10:31-11:00,Do anything,Bela 
+1435,2025-05-06,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1436,2025-05-06,12:01-1:00,Eat,Bela 
+1437,2025-05-06,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1438,2025-05-06,2:01-3:30,anything,Bela 
+1439,2025-05-06,3:30-6:00,Home work,Bela 
+1440,2025-05-06,6:01-7:30,Watch,Bela 
+1441,2025-05-06,7:31-8:30,Dinner,Bela 
+1442,2025-05-06,8:31-9:20,Try to sleep,Bela 
+1443,2025-05-07,7:30-7:59,Woke up brushed made bed,Bela 
+1444,2025-05-07,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1445,2025-05-07,8:31-9:00,Play,Bela 
+1446,2025-05-07,9:01-9:20,do UCMAS,Bela 
+1447,2025-05-07,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1448,2025-05-07,10:31-11:00,Do anything,Bela 
+1449,2025-05-07,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1450,2025-05-07,12:01-1:00,Eat,Bela 
+1451,2025-05-07,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1452,2025-05-07,2:01-3:30,anything,Bela 
+1453,2025-05-07,3:30-6:00,Home work,Bela 
+1454,2025-05-07,6:01-7:30,Watch,Bela 
+1455,2025-05-07,7:31-8:30,Dinner,Bela 
+1456,2025-05-07,8:31-9:20,Try to sleep,Bela 
+1457,2025-05-08,7:30-7:59,Woke up brushed made bed,Bela 
+1458,2025-05-08,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1459,2025-05-08,8:31-9:00,Play,Bela 
+1460,2025-05-08,9:01-9:20,do UCMAS,Bela 
+1461,2025-05-08,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1462,2025-05-08,10:31-11:00,Do anything,Bela 
+1463,2025-05-08,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1464,2025-05-08,12:01-1:00,Eat,Bela 
+1465,2025-05-08,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1466,2025-05-08,2:01-3:30,anything,Bela 
+1467,2025-05-08,3:30-6:00,Home work,Bela 
+1468,2025-05-08,6:01-7:30,Watch,Bela 
+1469,2025-05-08,7:31-8:30,Dinner,Bela 
+1470,2025-05-08,8:31-9:20,Try to sleep,Bela 
+1471,2025-05-09,7:30-7:59,Woke up brushed made bed,Bela 
+1472,2025-05-09,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1473,2025-05-09,8:31-9:00,Play,Bela 
+1474,2025-05-09,9:01-9:20,do UCMAS,Bela 
+1475,2025-05-09,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1476,2025-05-09,10:31-11:00,Do anything,Bela 
+1477,2025-05-09,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1478,2025-05-09,12:01-1:00,Eat,Bela 
+1479,2025-05-09,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1480,2025-05-09,2:01-3:30,anything,Bela 
+1481,2025-05-09,3:30-6:00,Home work,Bela 
+1482,2025-05-09,6:01-7:30,Watch,Bela 
+1483,2025-05-09,7:31-8:30,Dinner,Bela 
+1484,2025-05-09,8:31-9:20,Try to sleep,Bela 
+1485,2025-05-10,7:30-7:59,Woke up brushed made bed,Bela 
+1486,2025-05-10,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1487,2025-05-10,8:31-9:00,Play,Bela 
+1488,2025-05-10,9:01-9:20,do UCMAS,Bela 
+1489,2025-05-10,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1490,2025-05-10,10:31-11:00,Do anything,Bela 
+1491,2025-05-10,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1492,2025-05-10,12:01-1:00,Eat,Bela 
+1493,2025-05-10,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1494,2025-05-10,2:01-3:30,anything,Bela 
+1495,2025-05-10,3:30-6:00,Home work,Bela 
+1496,2025-05-10,6:01-7:30,Watch,Bela 
+1497,2025-05-10,7:31-8:30,Dinner,Bela 
+1498,2025-05-10,8:31-9:20,Try to sleep,Bela 
+1499,2025-05-11,7:30-7:59,Woke up brushed made bed,Bela 
+1500,2025-05-11,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1501,2025-05-11,8:31-9:00,Play,Bela 
+1502,2025-05-11,9:01-9:20,do UCMAS,Bela 
+1503,2025-05-11,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1504,2025-05-11,10:31-11:00,Do anything,Bela 
+1505,2025-05-11,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1506,2025-05-11,12:01-1:00,Eat,Bela 
+1507,2025-05-11,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1508,2025-05-11,2:01-3:30,anything,Bela 
+1509,2025-05-11,3:30-6:00,Home work,Bela 
+1510,2025-05-11,6:01-7:30,Watch,Bela 
+1511,2025-05-11,7:31-8:30,Dinner,Bela 
+1512,2025-05-11,8:31-9:20,Try to sleep,Bela 
+1513,2025-05-12,7:30-7:59,Woke up brushed made bed,Bela 
+1514,2025-05-12,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1515,2025-05-12,8:31-9:00,Play,Bela 
+1516,2025-05-12,9:01-9:20,do UCMAS,Bela 
+1517,2025-05-12,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1518,2025-05-12,10:31-11:00,Do anything,Bela 
+1519,2025-05-12,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1520,2025-05-12,12:01-1:00,Eat,Bela 
+1521,2025-05-12,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1522,2025-05-12,2:01-3:30,anything,Bela 
+1523,2025-05-12,3:30-6:00,Home work,Bela 
+1524,2025-05-12,6:01-7:30,Watch,Bela 
+1525,2025-05-12,7:31-8:30,Dinner,Bela 
+1526,2025-05-12,8:31-9:20,Try to sleep,Bela 
+1527,2025-05-13,7:30-7:59,Woke up brushed made bed,Bela 
+1528,2025-05-13,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1529,2025-05-13,8:31-9:00,Play,Bela 
+1530,2025-05-13,9:01-9:20,do UCMAS,Bela 
+1531,2025-05-13,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1532,2025-05-13,10:31-11:00,Do anything,Bela 
+1533,2025-05-13,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1534,2025-05-13,12:01-1:00,Eat,Bela 
+1535,2025-05-13,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1536,2025-05-13,2:01-3:30,anything,Bela 
+1537,2025-05-13,3:30-6:00,Home work,Bela 
+1538,2025-05-13,6:01-7:30,Watch,Bela 
+1539,2025-05-13,7:31-8:30,Dinner,Bela 
+1540,2025-05-13,8:31-9:20,Try to sleep,Bela 
+1541,2025-05-14,7:30-7:59,Woke up brushed made bed,Bela 
+1542,2025-05-14,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1543,2025-05-14,8:31-9:00,Play,Bela 
+1544,2025-05-14,9:01-9:20,do UCMAS,Bela 
+1545,2025-05-14,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1546,2025-05-14,10:31-11:00,Do anything,Bela 
+1547,2025-05-14,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1548,2025-05-14,12:01-1:00,Eat,Bela 
+1549,2025-05-14,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1550,2025-05-14,2:01-3:30,anything,Bela 
+1551,2025-05-14,3:30-6:00,Home work,Bela 
+1552,2025-05-14,6:01-7:30,Watch,Bela 
+1553,2025-05-14,7:31-8:30,Dinner,Bela 
+1554,2025-05-14,8:31-9:20,Try to sleep,Bela 
+1555,2025-05-15,7:30-7:59,Woke up brushed made bed,Bela 
+1556,2025-05-15,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1557,2025-05-15,8:31-9:00,Play,Bela 
+1558,2025-05-15,9:01-9:20,do UCMAS,Bela 
+1559,2025-05-15,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1560,2025-05-15,10:31-11:00,Do anything,Bela 
+1561,2025-05-15,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1562,2025-05-15,12:01-1:00,Eat,Bela 
+1563,2025-05-15,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1564,2025-05-15,2:01-3:30,anything,Bela 
+1565,2025-05-15,3:30-6:00,Home work,Bela 
+1566,2025-05-15,6:01-7:30,Watch,Bela 
+1567,2025-05-15,7:31-8:30,Dinner,Bela 
+1568,2025-05-15,8:31-9:20,Try to sleep,Bela 
+1569,2025-05-16,7:30-7:59,Woke up brushed made bed,Bela 
+1570,2025-05-16,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1571,2025-05-16,8:31-9:00,Play,Bela 
+1572,2025-05-16,9:01-9:20,do UCMAS,Bela 
+1573,2025-05-16,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1574,2025-05-16,10:31-11:00,Do anything,Bela 
+1575,2025-05-16,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1576,2025-05-16,12:01-1:00,Eat,Bela 
+1577,2025-05-16,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1578,2025-05-16,2:01-3:30,anything,Bela 
+1579,2025-05-16,3:30-6:00,Home work,Bela 
+1580,2025-05-16,6:01-7:30,Watch,Bela 
+1581,2025-05-16,7:31-8:30,Dinner,Bela 
+1582,2025-05-16,8:31-9:20,Try to sleep,Bela 
+1583,2025-05-17,7:30-7:59,Woke up brushed made bed,Bela 
+1584,2025-05-17,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1585,2025-05-17,8:31-9:00,Play,Bela 
+1586,2025-05-17,9:01-9:20,do UCMAS,Bela 
+1587,2025-05-17,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1588,2025-05-17,10:31-11:00,Do anything,Bela 
+1589,2025-05-17,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1590,2025-05-17,12:01-1:00,Eat,Bela 
+1591,2025-05-17,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1592,2025-05-17,2:01-3:30,anything,Bela 
+1593,2025-05-17,3:30-6:00,Home work,Bela 
+1594,2025-05-17,6:01-7:30,Watch,Bela 
+1595,2025-05-17,7:31-8:30,Dinner,Bela 
+1596,2025-05-17,8:31-9:20,Try to sleep,Bela 
+1597,2025-05-18,7:30-7:59,Woke up brushed made bed,Bela 
+1598,2025-05-18,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1599,2025-05-18,8:31-9:00,Play,Bela 
+1600,2025-05-18,9:01-9:20,do UCMAS,Bela 
+1601,2025-05-18,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1602,2025-05-18,10:31-11:00,Do anything,Bela 
+1603,2025-05-18,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1604,2025-05-18,12:01-1:00,Eat,Bela 
+1605,2025-05-18,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1606,2025-05-18,2:01-3:30,anything,Bela 
+1607,2025-05-18,3:30-6:00,Home work,Bela 
+1608,2025-05-18,6:01-7:30,Watch,Bela 
+1609,2025-05-18,7:31-8:30,Dinner,Bela 
+1610,2025-05-18,8:31-9:20,Try to sleep,Bela 
+1611,2025-05-19,7:30-7:59,Woke up brushed made bed,Bela 
+1612,2025-05-19,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1613,2025-05-19,8:31-9:00,Play,Bela 
+1614,2025-05-19,9:01-9:20,do UCMAS,Bela 
+1615,2025-05-19,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1616,2025-05-19,10:31-11:00,Do anything,Bela 
+1617,2025-05-19,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1618,2025-05-19,12:01-1:00,Eat,Bela 
+1619,2025-05-19,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1620,2025-05-19,2:01-3:30,anything,Bela 
+1621,2025-05-19,3:30-6:00,Home work,Bela 
+1622,2025-05-19,6:01-7:30,Watch,Bela 
+1623,2025-05-19,7:31-8:30,Dinner,Bela 
+1624,2025-05-19,8:31-9:20,Try to sleep,Bela 
+1625,2025-05-20,7:30-7:59,Woke up brushed made bed,Bela 
+1626,2025-05-20,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1627,2025-05-20,8:31-9:00,Play,Bela 
+1628,2025-05-20,9:01-9:20,do UCMAS,Bela 
+1629,2025-05-20,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1630,2025-05-20,10:31-11:00,Do anything,Bela 
+1631,2025-05-20,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1632,2025-05-20,12:01-1:00,Eat,Bela 
+1633,2025-05-20,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1634,2025-05-20,2:01-3:30,anything,Bela 
+1635,2025-05-20,3:30-6:00,Home work,Bela 
+1636,2025-05-20,6:01-7:30,Watch,Bela 
+1637,2025-05-20,7:31-8:30,Dinner,Bela 
+1638,2025-05-20,8:31-9:20,Try to sleep,Bela 
+1639,2025-05-21,7:30-7:59,Woke up brushed made bed,Bela 
+1640,2025-05-21,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1641,2025-05-21,8:31-9:00,Play,Bela 
+1642,2025-05-21,9:01-9:20,do UCMAS,Bela 
+1643,2025-05-21,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1644,2025-05-21,10:31-11:00,Do anything,Bela 
+1645,2025-05-21,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1646,2025-05-21,12:01-1:00,Eat,Bela 
+1647,2025-05-21,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1648,2025-05-21,2:01-3:30,anything,Bela 
+1649,2025-05-21,3:30-6:00,Home work,Bela 
+1650,2025-05-21,6:01-7:30,Watch,Bela 
+1651,2025-05-21,7:31-8:30,Dinner,Bela 
+1652,2025-05-21,8:31-9:20,Try to sleep,Bela 
+1653,2025-05-22,7:30-7:59,Woke up brushed made bed,Bela 
+1654,2025-05-22,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1655,2025-05-22,8:31-9:00,Play,Bela 
+1656,2025-05-22,9:01-9:20,do UCMAS,Bela 
+1657,2025-05-22,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1658,2025-05-22,10:31-11:00,Do anything,Bela 
+1659,2025-05-22,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1660,2025-05-22,12:01-1:00,Eat,Bela 
+1661,2025-05-22,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1662,2025-05-22,2:01-3:30,anything,Bela 
+1663,2025-05-22,3:30-6:00,Home work,Bela 
+1664,2025-05-22,6:01-7:30,Watch,Bela 
+1665,2025-05-22,7:31-8:30,Dinner,Bela 
+1666,2025-05-22,8:31-9:20,Try to sleep,Bela 
+1667,2025-05-23,7:30-7:59,Woke up brushed made bed,Bela 
+1668,2025-05-23,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1669,2025-05-23,8:31-9:00,Play,Bela 
+1670,2025-05-23,9:01-9:20,do UCMAS,Bela 
+1671,2025-05-23,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1672,2025-05-23,10:31-11:00,Do anything,Bela 
+1673,2025-05-23,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1674,2025-05-23,12:01-1:00,Eat,Bela 
+1675,2025-05-23,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1676,2025-05-23,2:01-3:30,anything,Bela 
+1677,2025-05-23,3:30-6:00,Home work,Bela 
+1678,2025-05-23,6:01-7:30,Watch,Bela 
+1679,2025-05-23,7:31-8:30,Dinner,Bela 
+1680,2025-05-23,8:31-9:20,Try to sleep,Bela 
+1681,2025-05-24,7:30-7:59,Woke up brushed made bed,Bela 
+1682,2025-05-24,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1683,2025-05-24,8:31-9:00,Play,Bela 
+1684,2025-05-24,9:01-9:20,do UCMAS,Bela 
+1685,2025-05-24,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1686,2025-05-24,10:31-11:00,Do anything,Bela 
+1687,2025-05-24,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1688,2025-05-24,12:01-1:00,Eat,Bela 
+1689,2025-05-24,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1690,2025-05-24,2:01-3:30,anything,Bela 
+1691,2025-05-24,3:30-6:00,Home work,Bela 
+1692,2025-05-24,6:01-7:30,Watch,Bela 
+1693,2025-05-24,7:31-8:30,Dinner,Bela 
+1694,2025-05-24,8:31-9:20,Try to sleep,Bela 
+1695,2025-05-25,7:30-7:59,Woke up brushed made bed,Bela 
+1696,2025-05-25,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1697,2025-05-25,8:31-9:00,Play,Bela 
+1698,2025-05-25,9:01-9:20,do UCMAS,Bela 
+1699,2025-05-25,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1700,2025-05-25,10:31-11:00,Do anything,Bela 
+1701,2025-05-25,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1702,2025-05-25,12:01-1:00,Eat,Bela 
+1703,2025-05-25,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1704,2025-05-25,2:01-3:30,anything,Bela 
+1705,2025-05-25,3:30-6:00,Home work,Bela 
+1706,2025-05-25,6:01-7:30,Watch,Bela 
+1707,2025-05-25,7:31-8:30,Dinner,Bela 
+1708,2025-05-25,8:31-9:20,Try to sleep,Bela 
+1709,2025-05-26,7:30-7:59,Woke up brushed made bed,Bela 
+1710,2025-05-26,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1711,2025-05-26,8:31-9:00,Play,Bela 
+1712,2025-05-26,9:01-9:20,do UCMAS,Bela 
+1713,2025-05-26,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1714,2025-05-26,10:31-11:00,Do anything,Bela 
+1715,2025-05-26,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1716,2025-05-26,12:01-1:00,Eat,Bela 
+1717,2025-05-26,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1718,2025-05-26,2:01-3:30,anything,Bela 
+1719,2025-05-26,3:30-6:00,Home work,Bela 
+1720,2025-05-26,6:01-7:30,Watch,Bela 
+1721,2025-05-26,7:31-8:30,Dinner,Bela 
+1722,2025-05-26,8:31-9:20,Try to sleep,Bela 
+1723,2025-05-27,7:30-7:59,Woke up brushed made bed,Bela 
+1724,2025-05-27,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1725,2025-05-27,8:31-9:00,Play,Bela 
+1726,2025-05-27,9:01-9:20,do UCMAS,Bela 
+1727,2025-05-27,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1728,2025-05-27,10:31-11:00,Do anything,Bela 
+1729,2025-05-27,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1730,2025-05-27,12:01-1:00,Eat,Bela 
+1731,2025-05-27,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1732,2025-05-27,2:01-3:30,anything,Bela 
+1733,2025-05-27,3:30-6:00,Home work,Bela 
+1734,2025-05-27,6:01-7:30,Watch,Bela 
+1735,2025-05-27,7:31-8:30,Dinner,Bela 
+1736,2025-05-27,8:31-9:20,Try to sleep,Bela 
+1737,2025-05-28,7:30-7:59,Woke up brushed made bed,Bela 
+1738,2025-05-28,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1739,2025-05-28,8:31-9:00,Play,Bela 
+1740,2025-05-28,9:01-9:20,do UCMAS,Bela 
+1741,2025-05-28,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1742,2025-05-28,10:31-11:00,Do anything,Bela 
+1743,2025-05-28,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1744,2025-05-28,12:01-1:00,Eat,Bela 
+1745,2025-05-28,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1746,2025-05-28,2:01-3:30,anything,Bela 
+1747,2025-05-28,3:30-6:00,Home work,Bela 
+1748,2025-05-28,6:01-7:30,Watch,Bela 
+1749,2025-05-28,7:31-8:30,Dinner,Bela 
+1750,2025-05-28,8:31-9:20,Try to sleep,Bela 
+1751,2025-05-29,7:30-7:59,Woke up brushed made bed,Bela 
+1752,2025-05-29,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1753,2025-05-29,8:31-9:00,Play,Bela 
+1754,2025-05-29,9:01-9:20,do UCMAS,Bela 
+1755,2025-05-29,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1756,2025-05-29,10:31-11:00,Do anything,Bela 
+1757,2025-05-29,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1758,2025-05-29,12:01-1:00,Eat,Bela 
+1759,2025-05-29,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1760,2025-05-29,2:01-3:30,anything,Bela 
+1761,2025-05-29,3:30-6:00,Home work,Bela 
+1762,2025-05-29,6:01-7:30,Watch,Bela 
+1763,2025-05-29,7:31-8:30,Dinner,Bela 
+1764,2025-05-29,8:31-9:20,Try to sleep,Bela 
+1765,2025-05-30,7:30-7:59,Woke up brushed made bed,Bela 
+1766,2025-05-30,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1767,2025-05-30,8:31-9:00,Play,Bela 
+1768,2025-05-30,9:01-9:20,do UCMAS,Bela 
+1769,2025-05-30,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1770,2025-05-30,10:31-11:00,Do anything,Bela 
+1771,2025-05-30,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1772,2025-05-30,12:01-1:00,Eat,Bela 
+1773,2025-05-30,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1774,2025-05-30,2:01-3:30,anything,Bela 
+1775,2025-05-30,3:30-6:00,Home work,Bela 
+1776,2025-05-30,6:01-7:30,Watch,Bela 
+1777,2025-05-30,7:31-8:30,Dinner,Bela 
+1778,2025-05-30,8:31-9:20,Try to sleep,Bela 
+1779,2025-05-31,7:30-7:59,Woke up brushed made bed,Bela 
+1780,2025-05-31,8:00-8:30,Go downstairs and eat breakfast,Bela 
+1781,2025-05-31,8:31-9:00,Play,Bela 
+1782,2025-05-31,9:01-9:20,do UCMAS,Bela 
+1783,2025-05-31,9:21-10:30,Do anything like Watching drawing and More,Bela 
+1784,2025-05-31,10:31-11:00,Do anything,Bela 
+1785,2025-05-31,11:01-12:00,Maybe told to do homework or play outside.,Bela 
+1786,2025-05-31,12:01-1:00,Eat,Bela 
+1787,2025-05-31,1:01-2:00,eat if didn't eat from 12:01-1:00,Bela 
+1788,2025-05-31,2:01-3:30,anything,Bela 
+1789,2025-05-31,3:30-6:00,Home work,Bela 
+1790,2025-05-31,6:01-7:30,Watch,Bela 
+1791,2025-05-31,7:31-8:30,Dinner,Bela 
+1792,2025-05-31,8:31-9:20,Try to sleep,Bela 
+1793,2025-05-01,7:30-7:59,Woke up brushed made bed,sleepy 
+1794,2025-05-01,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1795,2025-05-01,8:31-9:00,Play,sleepy 
+1796,2025-05-01,9:01-9:20,do UCMAS,sleepy 
+1797,2025-05-01,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1798,2025-05-01,10:31-11:00,Do anything,sleepy 
+1799,2025-05-01,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1800,2025-05-01,12:01-1:00,Eat,sleepy 
+1801,2025-05-01,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1802,2025-05-01,2:01-3:30,anything,sleepy 
+1803,2025-05-01,3:30-6:00,Home work,sleepy 
+1804,2025-05-01,6:01-7:30,Watch,sleepy 
+1805,2025-05-01,7:31-8:30,Dinner,sleepy 
+1806,2025-05-01,8:31-9:20,Try to sleep,sleepy 
+1807,2025-05-02,7:30-7:59,Woke up brushed made bed,sleepy 
+1808,2025-05-02,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1809,2025-05-02,8:31-9:00,Play,sleepy 
+1810,2025-05-02,9:01-9:20,do UCMAS,sleepy 
+1811,2025-05-02,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1812,2025-05-02,10:31-11:00,Do anything,sleepy 
+1813,2025-05-02,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1814,2025-05-02,12:01-1:00,Eat,sleepy 
+1815,2025-05-02,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1816,2025-05-02,2:01-3:30,anything,sleepy 
+1817,2025-05-02,3:30-6:00,Home work,sleepy 
+1818,2025-05-02,6:01-7:30,Watch,sleepy 
+1819,2025-05-02,7:31-8:30,Dinner,sleepy 
+1820,2025-05-02,8:31-9:20,Try to sleep,sleepy 
+1821,2025-05-03,7:30-7:59,Woke up brushed made bed,sleepy 
+1822,2025-05-03,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1823,2025-05-03,8:31-9:00,Play,sleepy 
+1824,2025-05-03,9:01-9:20,do UCMAS,sleepy 
+1825,2025-05-03,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1826,2025-05-03,10:31-11:00,Do anything,sleepy 
+1827,2025-05-03,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1828,2025-05-03,12:01-1:00,Eat,sleepy 
+1829,2025-05-03,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1830,2025-05-03,2:01-3:30,anything,sleepy 
+1831,2025-05-03,3:30-6:00,Home work,sleepy 
+1832,2025-05-03,6:01-7:30,Watch,sleepy 
+1833,2025-05-03,7:31-8:30,Dinner,sleepy 
+1834,2025-05-03,8:31-9:20,Try to sleep,sleepy 
+1835,2025-05-04,7:30-7:59,Woke up brushed made bed,sleepy 
+1836,2025-05-04,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1837,2025-05-04,8:31-9:00,Play,sleepy 
+1838,2025-05-04,9:01-9:20,do UCMAS,sleepy 
+1839,2025-05-04,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1840,2025-05-04,10:31-11:00,Do anything,sleepy 
+1841,2025-05-04,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1842,2025-05-04,12:01-1:00,Eat,sleepy 
+1843,2025-05-04,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1844,2025-05-04,2:01-3:30,anything,sleepy 
+1845,2025-05-04,3:30-6:00,Home work,sleepy 
+1846,2025-05-04,6:01-7:30,Watch,sleepy 
+1847,2025-05-04,7:31-8:30,Dinner,sleepy 
+1848,2025-05-04,8:31-9:20,Try to sleep,sleepy 
+1849,2025-05-05,7:30-7:59,Woke up brushed made bed,sleepy 
+1850,2025-05-05,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1851,2025-05-05,8:31-9:00,Play,sleepy 
+1852,2025-05-05,9:01-9:20,do UCMAS,sleepy 
+1853,2025-05-05,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1854,2025-05-05,10:31-11:00,Do anything,sleepy 
+1855,2025-05-05,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1856,2025-05-05,12:01-1:00,Eat,sleepy 
+1857,2025-05-05,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1858,2025-05-05,2:01-3:30,anything,sleepy 
+1859,2025-05-05,3:30-6:00,Home work,sleepy 
+1860,2025-05-05,6:01-7:30,Watch,sleepy 
+1861,2025-05-05,7:31-8:30,Dinner,sleepy 
+1862,2025-05-05,8:31-9:20,Try to sleep,sleepy 
+1863,2025-05-06,7:30-7:59,Woke up brushed made bed,sleepy 
+1864,2025-05-06,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1865,2025-05-06,8:31-9:00,Play,sleepy 
+1866,2025-05-06,9:01-9:20,do UCMAS,sleepy 
+1867,2025-05-06,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1868,2025-05-06,10:31-11:00,Do anything,sleepy 
+1869,2025-05-06,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1870,2025-05-06,12:01-1:00,Eat,sleepy 
+1871,2025-05-06,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1872,2025-05-06,2:01-3:30,anything,sleepy 
+1873,2025-05-06,3:30-6:00,Home work,sleepy 
+1874,2025-05-06,6:01-7:30,Watch,sleepy 
+1875,2025-05-06,7:31-8:30,Dinner,sleepy 
+1876,2025-05-06,8:31-9:20,Try to sleep,sleepy 
+1877,2025-05-07,7:30-7:59,Woke up brushed made bed,sleepy 
+1878,2025-05-07,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1879,2025-05-07,8:31-9:00,Play,sleepy 
+1880,2025-05-07,9:01-9:20,do UCMAS,sleepy 
+1881,2025-05-07,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1882,2025-05-07,10:31-11:00,Do anything,sleepy 
+1883,2025-05-07,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1884,2025-05-07,12:01-1:00,Eat,sleepy 
+1885,2025-05-07,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1886,2025-05-07,2:01-3:30,anything,sleepy 
+1887,2025-05-07,3:30-6:00,Home work,sleepy 
+1888,2025-05-07,6:01-7:30,Watch,sleepy 
+1889,2025-05-07,7:31-8:30,Dinner,sleepy 
+1890,2025-05-07,8:31-9:20,Try to sleep,sleepy 
+1891,2025-05-08,7:30-7:59,Woke up brushed made bed,sleepy 
+1892,2025-05-08,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1893,2025-05-08,8:31-9:00,Play,sleepy 
+1894,2025-05-08,9:01-9:20,do UCMAS,sleepy 
+1895,2025-05-08,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1896,2025-05-08,10:31-11:00,Do anything,sleepy 
+1897,2025-05-08,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1898,2025-05-08,12:01-1:00,Eat,sleepy 
+1899,2025-05-08,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1900,2025-05-08,2:01-3:30,anything,sleepy 
+1901,2025-05-08,3:30-6:00,Home work,sleepy 
+1902,2025-05-08,6:01-7:30,Watch,sleepy 
+1903,2025-05-08,7:31-8:30,Dinner,sleepy 
+1904,2025-05-08,8:31-9:20,Try to sleep,sleepy 
+1905,2025-05-09,7:30-7:59,Woke up brushed made bed,sleepy 
+1906,2025-05-09,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1907,2025-05-09,8:31-9:00,Play,sleepy 
+1908,2025-05-09,9:01-9:20,do UCMAS,sleepy 
+1909,2025-05-09,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1910,2025-05-09,10:31-11:00,Do anything,sleepy 
+1911,2025-05-09,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1912,2025-05-09,12:01-1:00,Eat,sleepy 
+1913,2025-05-09,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1914,2025-05-09,2:01-3:30,anything,sleepy 
+1915,2025-05-09,3:30-6:00,Home work,sleepy 
+1916,2025-05-09,6:01-7:30,Watch,sleepy 
+1917,2025-05-09,7:31-8:30,Dinner,sleepy 
+1918,2025-05-09,8:31-9:20,Try to sleep,sleepy 
+1919,2025-05-10,7:30-7:59,Woke up brushed made bed,sleepy 
+1920,2025-05-10,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1921,2025-05-10,8:31-9:00,Play,sleepy 
+1922,2025-05-10,9:01-9:20,do UCMAS,sleepy 
+1923,2025-05-10,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1924,2025-05-10,10:31-11:00,Do anything,sleepy 
+1925,2025-05-10,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1926,2025-05-10,12:01-1:00,Eat,sleepy 
+1927,2025-05-10,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1928,2025-05-10,2:01-3:30,anything,sleepy 
+1929,2025-05-10,3:30-6:00,Home work,sleepy 
+1930,2025-05-10,6:01-7:30,Watch,sleepy 
+1931,2025-05-10,7:31-8:30,Dinner,sleepy 
+1932,2025-05-10,8:31-9:20,Try to sleep,sleepy 
+1933,2025-05-11,7:30-7:59,Woke up brushed made bed,sleepy 
+1934,2025-05-11,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1935,2025-05-11,8:31-9:00,Play,sleepy 
+1936,2025-05-11,9:01-9:20,do UCMAS,sleepy 
+1937,2025-05-11,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1938,2025-05-11,10:31-11:00,Do anything,sleepy 
+1939,2025-05-11,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1940,2025-05-11,12:01-1:00,Eat,sleepy 
+1941,2025-05-11,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1942,2025-05-11,2:01-3:30,anything,sleepy 
+1943,2025-05-11,3:30-6:00,Home work,sleepy 
+1944,2025-05-11,6:01-7:30,Watch,sleepy 
+1945,2025-05-11,7:31-8:30,Dinner,sleepy 
+1946,2025-05-11,8:31-9:20,Try to sleep,sleepy 
+1947,2025-05-12,7:30-7:59,Woke up brushed made bed,sleepy 
+1948,2025-05-12,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1949,2025-05-12,8:31-9:00,Play,sleepy 
+1950,2025-05-12,9:01-9:20,do UCMAS,sleepy 
+1951,2025-05-12,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1952,2025-05-12,10:31-11:00,Do anything,sleepy 
+1953,2025-05-12,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1954,2025-05-12,12:01-1:00,Eat,sleepy 
+1955,2025-05-12,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1956,2025-05-12,2:01-3:30,anything,sleepy 
+1957,2025-05-12,3:30-6:00,Home work,sleepy 
+1958,2025-05-12,6:01-7:30,Watch,sleepy 
+1959,2025-05-12,7:31-8:30,Dinner,sleepy 
+1960,2025-05-12,8:31-9:20,Try to sleep,sleepy 
+1961,2025-05-13,7:30-7:59,Woke up brushed made bed,sleepy 
+1962,2025-05-13,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1963,2025-05-13,8:31-9:00,Play,sleepy 
+1964,2025-05-13,9:01-9:20,do UCMAS,sleepy 
+1965,2025-05-13,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1966,2025-05-13,10:31-11:00,Do anything,sleepy 
+1967,2025-05-13,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1968,2025-05-13,12:01-1:00,Eat,sleepy 
+1969,2025-05-13,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1970,2025-05-13,2:01-3:30,anything,sleepy 
+1971,2025-05-13,3:30-6:00,Home work,sleepy 
+1972,2025-05-13,6:01-7:30,Watch,sleepy 
+1973,2025-05-13,7:31-8:30,Dinner,sleepy 
+1974,2025-05-13,8:31-9:20,Try to sleep,sleepy 
+1975,2025-05-14,7:30-7:59,Woke up brushed made bed,sleepy 
+1976,2025-05-14,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1977,2025-05-14,8:31-9:00,Play,sleepy 
+1978,2025-05-14,9:01-9:20,do UCMAS,sleepy 
+1979,2025-05-14,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1980,2025-05-14,10:31-11:00,Do anything,sleepy 
+1981,2025-05-14,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1982,2025-05-14,12:01-1:00,Eat,sleepy 
+1983,2025-05-14,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1984,2025-05-14,2:01-3:30,anything,sleepy 
+1985,2025-05-14,3:30-6:00,Home work,sleepy 
+1986,2025-05-14,6:01-7:30,Watch,sleepy 
+1987,2025-05-14,7:31-8:30,Dinner,sleepy 
+1988,2025-05-14,8:31-9:20,Try to sleep,sleepy 
+1989,2025-05-15,7:30-7:59,Woke up brushed made bed,sleepy 
+1990,2025-05-15,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+1991,2025-05-15,8:31-9:00,Play,sleepy 
+1992,2025-05-15,9:01-9:20,do UCMAS,sleepy 
+1993,2025-05-15,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+1994,2025-05-15,10:31-11:00,Do anything,sleepy 
+1995,2025-05-15,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+1996,2025-05-15,12:01-1:00,Eat,sleepy 
+1997,2025-05-15,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+1998,2025-05-15,2:01-3:30,anything,sleepy 
+1999,2025-05-15,3:30-6:00,Home work,sleepy 
+2000,2025-05-15,6:01-7:30,Watch,sleepy 
+2001,2025-05-15,7:31-8:30,Dinner,sleepy 
+2002,2025-05-15,8:31-9:20,Try to sleep,sleepy 
+2003,2025-05-16,7:30-7:59,Woke up brushed made bed,sleepy 
+2004,2025-05-16,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2005,2025-05-16,8:31-9:00,Play,sleepy 
+2006,2025-05-16,9:01-9:20,do UCMAS,sleepy 
+2007,2025-05-16,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2008,2025-05-16,10:31-11:00,Do anything,sleepy 
+2009,2025-05-16,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2010,2025-05-16,12:01-1:00,Eat,sleepy 
+2011,2025-05-16,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2012,2025-05-16,2:01-3:30,anything,sleepy 
+2013,2025-05-16,3:30-6:00,Home work,sleepy 
+2014,2025-05-16,6:01-7:30,Watch,sleepy 
+2015,2025-05-16,7:31-8:30,Dinner,sleepy 
+2016,2025-05-16,8:31-9:20,Try to sleep,sleepy 
+2017,2025-05-17,7:30-7:59,Woke up brushed made bed,sleepy 
+2018,2025-05-17,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2019,2025-05-17,8:31-9:00,Play,sleepy 
+2020,2025-05-17,9:01-9:20,do UCMAS,sleepy 
+2021,2025-05-17,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2022,2025-05-17,10:31-11:00,Do anything,sleepy 
+2023,2025-05-17,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2024,2025-05-17,12:01-1:00,Eat,sleepy 
+2025,2025-05-17,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2026,2025-05-17,2:01-3:30,anything,sleepy 
+2027,2025-05-17,3:30-6:00,Home work,sleepy 
+2028,2025-05-17,6:01-7:30,Watch,sleepy 
+2029,2025-05-17,7:31-8:30,Dinner,sleepy 
+2030,2025-05-17,8:31-9:20,Try to sleep,sleepy 
+2031,2025-05-18,7:30-7:59,Woke up brushed made bed,sleepy 
+2032,2025-05-18,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2033,2025-05-18,8:31-9:00,Play,sleepy 
+2034,2025-05-18,9:01-9:20,do UCMAS,sleepy 
+2035,2025-05-18,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2036,2025-05-18,10:31-11:00,Do anything,sleepy 
+2037,2025-05-18,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2038,2025-05-18,12:01-1:00,Eat,sleepy 
+2039,2025-05-18,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2040,2025-05-18,2:01-3:30,anything,sleepy 
+2041,2025-05-18,3:30-6:00,Home work,sleepy 
+2042,2025-05-18,6:01-7:30,Watch,sleepy 
+2043,2025-05-18,7:31-8:30,Dinner,sleepy 
+2044,2025-05-18,8:31-9:20,Try to sleep,sleepy 
+2045,2025-05-19,7:30-7:59,Woke up brushed made bed,sleepy 
+2046,2025-05-19,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2047,2025-05-19,8:31-9:00,Play,sleepy 
+2048,2025-05-19,9:01-9:20,do UCMAS,sleepy 
+2049,2025-05-19,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2050,2025-05-19,10:31-11:00,Do anything,sleepy 
+2051,2025-05-19,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2052,2025-05-19,12:01-1:00,Eat,sleepy 
+2053,2025-05-19,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2054,2025-05-19,2:01-3:30,anything,sleepy 
+2055,2025-05-19,3:30-6:00,Home work,sleepy 
+2056,2025-05-19,6:01-7:30,Watch,sleepy 
+2057,2025-05-19,7:31-8:30,Dinner,sleepy 
+2058,2025-05-19,8:31-9:20,Try to sleep,sleepy 
+2059,2025-05-20,7:30-7:59,Woke up brushed made bed,sleepy 
+2060,2025-05-20,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2061,2025-05-20,8:31-9:00,Play,sleepy 
+2062,2025-05-20,9:01-9:20,do UCMAS,sleepy 
+2063,2025-05-20,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2064,2025-05-20,10:31-11:00,Do anything,sleepy 
+2065,2025-05-20,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2066,2025-05-20,12:01-1:00,Eat,sleepy 
+2067,2025-05-20,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2068,2025-05-20,2:01-3:30,anything,sleepy 
+2069,2025-05-20,3:30-6:00,Home work,sleepy 
+2070,2025-05-20,6:01-7:30,Watch,sleepy 
+2071,2025-05-20,7:31-8:30,Dinner,sleepy 
+2072,2025-05-20,8:31-9:20,Try to sleep,sleepy 
+2073,2025-05-21,7:30-7:59,Woke up brushed made bed,sleepy 
+2074,2025-05-21,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2075,2025-05-21,8:31-9:00,Play,sleepy 
+2076,2025-05-21,9:01-9:20,do UCMAS,sleepy 
+2077,2025-05-21,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2078,2025-05-21,10:31-11:00,Do anything,sleepy 
+2079,2025-05-21,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2080,2025-05-21,12:01-1:00,Eat,sleepy 
+2081,2025-05-21,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2082,2025-05-21,2:01-3:30,anything,sleepy 
+2083,2025-05-21,3:30-6:00,Home work,sleepy 
+2084,2025-05-21,6:01-7:30,Watch,sleepy 
+2085,2025-05-21,7:31-8:30,Dinner,sleepy 
+2086,2025-05-21,8:31-9:20,Try to sleep,sleepy 
+2087,2025-05-22,7:30-7:59,Woke up brushed made bed,sleepy 
+2088,2025-05-22,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2089,2025-05-22,8:31-9:00,Play,sleepy 
+2090,2025-05-22,9:01-9:20,do UCMAS,sleepy 
+2091,2025-05-22,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2092,2025-05-22,10:31-11:00,Do anything,sleepy 
+2093,2025-05-22,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2094,2025-05-22,12:01-1:00,Eat,sleepy 
+2095,2025-05-22,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2096,2025-05-22,2:01-3:30,anything,sleepy 
+2097,2025-05-22,3:30-6:00,Home work,sleepy 
+2098,2025-05-22,6:01-7:30,Watch,sleepy 
+2099,2025-05-22,7:31-8:30,Dinner,sleepy 
+2100,2025-05-22,8:31-9:20,Try to sleep,sleepy 
+2101,2025-05-23,7:30-7:59,Woke up brushed made bed,sleepy 
+2102,2025-05-23,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2103,2025-05-23,8:31-9:00,Play,sleepy 
+2104,2025-05-23,9:01-9:20,do UCMAS,sleepy 
+2105,2025-05-23,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2106,2025-05-23,10:31-11:00,Do anything,sleepy 
+2107,2025-05-23,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2108,2025-05-23,12:01-1:00,Eat,sleepy 
+2109,2025-05-23,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2110,2025-05-23,2:01-3:30,anything,sleepy 
+2111,2025-05-23,3:30-6:00,Home work,sleepy 
+2112,2025-05-23,6:01-7:30,Watch,sleepy 
+2113,2025-05-23,7:31-8:30,Dinner,sleepy 
+2114,2025-05-23,8:31-9:20,Try to sleep,sleepy 
+2115,2025-05-24,7:30-7:59,Woke up brushed made bed,sleepy 
+2116,2025-05-24,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2117,2025-05-24,8:31-9:00,Play,sleepy 
+2118,2025-05-24,9:01-9:20,do UCMAS,sleepy 
+2119,2025-05-24,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2120,2025-05-24,10:31-11:00,Do anything,sleepy 
+2121,2025-05-24,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2122,2025-05-24,12:01-1:00,Eat,sleepy 
+2123,2025-05-24,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2124,2025-05-24,2:01-3:30,anything,sleepy 
+2125,2025-05-24,3:30-6:00,Home work,sleepy 
+2126,2025-05-24,6:01-7:30,Watch,sleepy 
+2127,2025-05-24,7:31-8:30,Dinner,sleepy 
+2128,2025-05-24,8:31-9:20,Try to sleep,sleepy 
+2129,2025-05-25,7:30-7:59,Woke up brushed made bed,sleepy 
+2130,2025-05-25,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2131,2025-05-25,8:31-9:00,Play,sleepy 
+2132,2025-05-25,9:01-9:20,do UCMAS,sleepy 
+2133,2025-05-25,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2134,2025-05-25,10:31-11:00,Do anything,sleepy 
+2135,2025-05-25,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2136,2025-05-25,12:01-1:00,Eat,sleepy 
+2137,2025-05-25,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2138,2025-05-25,2:01-3:30,anything,sleepy 
+2139,2025-05-25,3:30-6:00,Home work,sleepy 
+2140,2025-05-25,6:01-7:30,Watch,sleepy 
+2141,2025-05-25,7:31-8:30,Dinner,sleepy 
+2142,2025-05-25,8:31-9:20,Try to sleep,sleepy 
+2143,2025-05-26,7:30-7:59,Woke up brushed made bed,sleepy 
+2144,2025-05-26,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2145,2025-05-26,8:31-9:00,Play,sleepy 
+2146,2025-05-26,9:01-9:20,do UCMAS,sleepy 
+2147,2025-05-26,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2148,2025-05-26,10:31-11:00,Do anything,sleepy 
+2149,2025-05-26,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2150,2025-05-26,12:01-1:00,Eat,sleepy 
+2151,2025-05-26,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2152,2025-05-26,2:01-3:30,anything,sleepy 
+2153,2025-05-26,3:30-6:00,Home work,sleepy 
+2154,2025-05-26,6:01-7:30,Watch,sleepy 
+2155,2025-05-26,7:31-8:30,Dinner,sleepy 
+2156,2025-05-26,8:31-9:20,Try to sleep,sleepy 
+2157,2025-05-27,7:30-7:59,Woke up brushed made bed,sleepy 
+2158,2025-05-27,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2159,2025-05-27,8:31-9:00,Play,sleepy 
+2160,2025-05-27,9:01-9:20,do UCMAS,sleepy 
+2161,2025-05-27,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2162,2025-05-27,10:31-11:00,Do anything,sleepy 
+2163,2025-05-27,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2164,2025-05-27,12:01-1:00,Eat,sleepy 
+2165,2025-05-27,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2166,2025-05-27,2:01-3:30,anything,sleepy 
+2167,2025-05-27,3:30-6:00,Home work,sleepy 
+2168,2025-05-27,6:01-7:30,Watch,sleepy 
+2169,2025-05-27,7:31-8:30,Dinner,sleepy 
+2170,2025-05-27,8:31-9:20,Try to sleep,sleepy 
+2171,2025-05-28,7:30-7:59,Woke up brushed made bed,sleepy 
+2172,2025-05-28,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2173,2025-05-28,8:31-9:00,Play,sleepy 
+2174,2025-05-28,9:01-9:20,do UCMAS,sleepy 
+2175,2025-05-28,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2176,2025-05-28,10:31-11:00,Do anything,sleepy 
+2177,2025-05-28,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2178,2025-05-28,12:01-1:00,Eat,sleepy 
+2179,2025-05-28,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2180,2025-05-28,2:01-3:30,anything,sleepy 
+2181,2025-05-28,3:30-6:00,Home work,sleepy 
+2182,2025-05-28,6:01-7:30,Watch,sleepy 
+2183,2025-05-28,7:31-8:30,Dinner,sleepy 
+2184,2025-05-28,8:31-9:20,Try to sleep,sleepy 
+2185,2025-05-29,7:30-7:59,Woke up brushed made bed,sleepy 
+2186,2025-05-29,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2187,2025-05-29,8:31-9:00,Play,sleepy 
+2188,2025-05-29,9:01-9:20,do UCMAS,sleepy 
+2189,2025-05-29,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2190,2025-05-29,10:31-11:00,Do anything,sleepy 
+2191,2025-05-29,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2192,2025-05-29,12:01-1:00,Eat,sleepy 
+2193,2025-05-29,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2194,2025-05-29,2:01-3:30,anything,sleepy 
+2195,2025-05-29,3:30-6:00,Home work,sleepy 
+2196,2025-05-29,6:01-7:30,Watch,sleepy 
+2197,2025-05-29,7:31-8:30,Dinner,sleepy 
+2198,2025-05-29,8:31-9:20,Try to sleep,sleepy 
+2199,2025-05-30,7:30-7:59,Woke up brushed made bed,sleepy 
+2200,2025-05-30,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2201,2025-05-30,8:31-9:00,Play,sleepy 
+2202,2025-05-30,9:01-9:20,do UCMAS,sleepy 
+2203,2025-05-30,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2204,2025-05-30,10:31-11:00,Do anything,sleepy 
+2205,2025-05-30,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2206,2025-05-30,12:01-1:00,Eat,sleepy 
+2207,2025-05-30,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2208,2025-05-30,2:01-3:30,anything,sleepy 
+2209,2025-05-30,3:30-6:00,Home work,sleepy 
+2210,2025-05-30,6:01-7:30,Watch,sleepy 
+2211,2025-05-30,7:31-8:30,Dinner,sleepy 
+2212,2025-05-30,8:31-9:20,Try to sleep,sleepy 
+2213,2025-05-31,7:30-7:59,Woke up brushed made bed,sleepy 
+2214,2025-05-31,8:00-8:30,Go downstairs and eat breakfast,sleepy 
+2215,2025-05-31,8:31-9:00,Play,sleepy 
+2216,2025-05-31,9:01-9:20,do UCMAS,sleepy 
+2217,2025-05-31,9:21-10:30,Do anything like Watching drawing and More,sleepy 
+2218,2025-05-31,10:31-11:00,Do anything,sleepy 
+2219,2025-05-31,11:01-12:00,Maybe told to do homework or play outside.,sleepy 
+2220,2025-05-31,12:01-1:00,Eat,sleepy 
+2221,2025-05-31,1:01-2:00,eat if didn't eat from 12:01-1:00,sleepy 
+2222,2025-05-31,2:01-3:30,anything,sleepy 
+2223,2025-05-31,3:30-6:00,Home work,sleepy 
+2224,2025-05-31,6:01-7:30,Watch,sleepy 
+2225,2025-05-31,7:31-8:30,Dinner,sleepy 
+2226,2025-05-31,8:31-9:20,Try to sleep,sleepy 
+2227,2025-05-01,7:30-7:59,Woke up brushed made bed,Aaba
+2228,2025-05-01,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2229,2025-05-01,8:31-9:00,Play,Aaba
+2230,2025-05-01,9:01-9:20,do UCMAS,Aaba
+2231,2025-05-01,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2232,2025-05-01,10:31-11:00,Do anything,Aaba
+2233,2025-05-01,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2234,2025-05-01,12:01-1:00,Eat,Aaba
+2235,2025-05-01,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2236,2025-05-01,2:01-3:30,anything,Aaba
+2237,2025-05-01,3:30-6:00,Home work,Aaba
+2238,2025-05-01,6:01-7:30,Watch,Aaba
+2239,2025-05-01,7:31-8:30,Dinner,Aaba
+2240,2025-05-01,8:31-9:20,Try to sleep,Aaba
+2241,2025-05-02,7:30-7:59,Woke up brushed made bed,Aaba
+2242,2025-05-02,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2243,2025-05-02,8:31-9:00,Play,Aaba
+2244,2025-05-02,9:01-9:20,do UCMAS,Aaba
+2245,2025-05-02,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2246,2025-05-02,10:31-11:00,Do anything,Aaba
+2247,2025-05-02,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2248,2025-05-02,12:01-1:00,Eat,Aaba
+2249,2025-05-02,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2250,2025-05-02,2:01-3:30,anything,Aaba
+2251,2025-05-02,3:30-6:00,Home work,Aaba
+2252,2025-05-02,6:01-7:30,Watch,Aaba
+2253,2025-05-02,7:31-8:30,Dinner,Aaba
+2254,2025-05-02,8:31-9:20,Try to sleep,Aaba
+2255,2025-05-03,7:30-7:59,Woke up brushed made bed,Aaba
+2256,2025-05-03,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2257,2025-05-03,8:31-9:00,Play,Aaba
+2258,2025-05-03,9:01-9:20,do UCMAS,Aaba
+2259,2025-05-03,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2260,2025-05-03,10:31-11:00,Do anything,Aaba
+2261,2025-05-03,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2262,2025-05-03,12:01-1:00,Eat,Aaba
+2263,2025-05-03,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2264,2025-05-03,2:01-3:30,anything,Aaba
+2265,2025-05-03,3:30-6:00,Home work,Aaba
+2266,2025-05-03,6:01-7:30,Watch,Aaba
+2267,2025-05-03,7:31-8:30,Dinner,Aaba
+2268,2025-05-03,8:31-9:20,Try to sleep,Aaba
+2269,2025-05-04,7:30-7:59,Woke up brushed made bed,Aaba
+2270,2025-05-04,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2271,2025-05-04,8:31-9:00,Play,Aaba
+2272,2025-05-04,9:01-9:20,do UCMAS,Aaba
+2273,2025-05-04,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2274,2025-05-04,10:31-11:00,Do anything,Aaba
+2275,2025-05-04,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2276,2025-05-04,12:01-1:00,Eat,Aaba
+2277,2025-05-04,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2278,2025-05-04,2:01-3:30,anything,Aaba
+2279,2025-05-04,3:30-6:00,Home work,Aaba
+2280,2025-05-04,6:01-7:30,Watch,Aaba
+2281,2025-05-04,7:31-8:30,Dinner,Aaba
+2282,2025-05-04,8:31-9:20,Try to sleep,Aaba
+2283,2025-05-05,7:30-7:59,Woke up brushed made bed,Aaba
+2284,2025-05-05,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2285,2025-05-05,8:31-9:00,Play,Aaba
+2286,2025-05-05,9:01-9:20,do UCMAS,Aaba
+2287,2025-05-05,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2288,2025-05-05,10:31-11:00,Do anything,Aaba
+2289,2025-05-05,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2290,2025-05-05,12:01-1:00,Eat,Aaba
+2291,2025-05-05,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2292,2025-05-05,2:01-3:30,anything,Aaba
+2293,2025-05-05,3:30-6:00,Home work,Aaba
+2294,2025-05-05,6:01-7:30,Watch,Aaba
+2295,2025-05-05,7:31-8:30,Dinner,Aaba
+2296,2025-05-05,8:31-9:20,Try to sleep,Aaba
+2297,2025-05-06,7:30-7:59,Woke up brushed made bed,Aaba
+2298,2025-05-06,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2299,2025-05-06,8:31-9:00,Play,Aaba
+2300,2025-05-06,9:01-9:20,do UCMAS,Aaba
+2301,2025-05-06,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2302,2025-05-06,10:31-11:00,Do anything,Aaba
+2303,2025-05-06,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2304,2025-05-06,12:01-1:00,Eat,Aaba
+2305,2025-05-06,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2306,2025-05-06,2:01-3:30,anything,Aaba
+2307,2025-05-06,3:30-6:00,Home work,Aaba
+2308,2025-05-06,6:01-7:30,Watch,Aaba
+2309,2025-05-06,7:31-8:30,Dinner,Aaba
+2310,2025-05-06,8:31-9:20,Try to sleep,Aaba
+2311,2025-05-07,7:30-7:59,Woke up brushed made bed,Aaba
+2312,2025-05-07,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2313,2025-05-07,8:31-9:00,Play,Aaba
+2314,2025-05-07,9:01-9:20,do UCMAS,Aaba
+2315,2025-05-07,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2316,2025-05-07,10:31-11:00,Do anything,Aaba
+2317,2025-05-07,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2318,2025-05-07,12:01-1:00,Eat,Aaba
+2319,2025-05-07,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2320,2025-05-07,2:01-3:30,anything,Aaba
+2321,2025-05-07,3:30-6:00,Home work,Aaba
+2322,2025-05-07,6:01-7:30,Watch,Aaba
+2323,2025-05-07,7:31-8:30,Dinner,Aaba
+2324,2025-05-07,8:31-9:20,Try to sleep,Aaba
+2325,2025-05-08,7:30-7:59,Woke up brushed made bed,Aaba
+2326,2025-05-08,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2327,2025-05-08,8:31-9:00,Play,Aaba
+2328,2025-05-08,9:01-9:20,do UCMAS,Aaba
+2329,2025-05-08,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2330,2025-05-08,10:31-11:00,Do anything,Aaba
+2331,2025-05-08,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2332,2025-05-08,12:01-1:00,Eat,Aaba
+2333,2025-05-08,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2334,2025-05-08,2:01-3:30,anything,Aaba
+2335,2025-05-08,3:30-6:00,Home work,Aaba
+2336,2025-05-08,6:01-7:30,Watch,Aaba
+2337,2025-05-08,7:31-8:30,Dinner,Aaba
+2338,2025-05-08,8:31-9:20,Try to sleep,Aaba
+2339,2025-05-09,7:30-7:59,Woke up brushed made bed,Aaba
+2340,2025-05-09,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2341,2025-05-09,8:31-9:00,Play,Aaba
+2342,2025-05-09,9:01-9:20,do UCMAS,Aaba
+2343,2025-05-09,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2344,2025-05-09,10:31-11:00,Do anything,Aaba
+2345,2025-05-09,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2346,2025-05-09,12:01-1:00,Eat,Aaba
+2347,2025-05-09,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2348,2025-05-09,2:01-3:30,anything,Aaba
+2349,2025-05-09,3:30-6:00,Home work,Aaba
+2350,2025-05-09,6:01-7:30,Watch,Aaba
+2351,2025-05-09,7:31-8:30,Dinner,Aaba
+2352,2025-05-09,8:31-9:20,Try to sleep,Aaba
+2353,2025-05-10,7:30-7:59,Woke up brushed made bed,Aaba
+2354,2025-05-10,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2355,2025-05-10,8:31-9:00,Play,Aaba
+2356,2025-05-10,9:01-9:20,do UCMAS,Aaba
+2357,2025-05-10,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2358,2025-05-10,10:31-11:00,Do anything,Aaba
+2359,2025-05-10,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2360,2025-05-10,12:01-1:00,Eat,Aaba
+2361,2025-05-10,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2362,2025-05-10,2:01-3:30,anything,Aaba
+2363,2025-05-10,3:30-6:00,Home work,Aaba
+2364,2025-05-10,6:01-7:30,Watch,Aaba
+2365,2025-05-10,7:31-8:30,Dinner,Aaba
+2366,2025-05-10,8:31-9:20,Try to sleep,Aaba
+2367,2025-05-11,7:30-7:59,Woke up brushed made bed,Aaba
+2368,2025-05-11,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2369,2025-05-11,8:31-9:00,Play,Aaba
+2370,2025-05-11,9:01-9:20,do UCMAS,Aaba
+2371,2025-05-11,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2372,2025-05-11,10:31-11:00,Do anything,Aaba
+2373,2025-05-11,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2374,2025-05-11,12:01-1:00,Eat,Aaba
+2375,2025-05-11,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2376,2025-05-11,2:01-3:30,anything,Aaba
+2377,2025-05-11,3:30-6:00,Home work,Aaba
+2378,2025-05-11,6:01-7:30,Watch,Aaba
+2379,2025-05-11,7:31-8:30,Dinner,Aaba
+2380,2025-05-11,8:31-9:20,Try to sleep,Aaba
+2381,2025-05-12,7:30-7:59,Woke up brushed made bed,Aaba
+2382,2025-05-12,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2383,2025-05-12,8:31-9:00,Play,Aaba
+2384,2025-05-12,9:01-9:20,do UCMAS,Aaba
+2385,2025-05-12,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2386,2025-05-12,10:31-11:00,Do anything,Aaba
+2387,2025-05-12,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2388,2025-05-12,12:01-1:00,Eat,Aaba
+2389,2025-05-12,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2390,2025-05-12,2:01-3:30,anything,Aaba
+2391,2025-05-12,3:30-6:00,Home work,Aaba
+2392,2025-05-12,6:01-7:30,Watch,Aaba
+2393,2025-05-12,7:31-8:30,Dinner,Aaba
+2394,2025-05-12,8:31-9:20,Try to sleep,Aaba
+2395,2025-05-13,7:30-7:59,Woke up brushed made bed,Aaba
+2396,2025-05-13,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2397,2025-05-13,8:31-9:00,Play,Aaba
+2398,2025-05-13,9:01-9:20,do UCMAS,Aaba
+2399,2025-05-13,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2400,2025-05-13,10:31-11:00,Do anything,Aaba
+2401,2025-05-13,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2402,2025-05-13,12:01-1:00,Eat,Aaba
+2403,2025-05-13,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2404,2025-05-13,2:01-3:30,anything,Aaba
+2405,2025-05-13,3:30-6:00,Home work,Aaba
+2406,2025-05-13,6:01-7:30,Watch,Aaba
+2407,2025-05-13,7:31-8:30,Dinner,Aaba
+2408,2025-05-13,8:31-9:20,Try to sleep,Aaba
+2409,2025-05-14,7:30-7:59,Woke up brushed made bed,Aaba
+2410,2025-05-14,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2411,2025-05-14,8:31-9:00,Play,Aaba
+2412,2025-05-14,9:01-9:20,do UCMAS,Aaba
+2413,2025-05-14,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2414,2025-05-14,10:31-11:00,Do anything,Aaba
+2415,2025-05-14,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2416,2025-05-14,12:01-1:00,Eat,Aaba
+2417,2025-05-14,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2418,2025-05-14,2:01-3:30,anything,Aaba
+2419,2025-05-14,3:30-6:00,Home work,Aaba
+2420,2025-05-14,6:01-7:30,Watch,Aaba
+2421,2025-05-14,7:31-8:30,Dinner,Aaba
+2422,2025-05-14,8:31-9:20,Try to sleep,Aaba
+2423,2025-05-15,7:30-7:59,Woke up brushed made bed,Aaba
+2424,2025-05-15,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2425,2025-05-15,8:31-9:00,Play,Aaba
+2426,2025-05-15,9:01-9:20,do UCMAS,Aaba
+2427,2025-05-15,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2428,2025-05-15,10:31-11:00,Do anything,Aaba
+2429,2025-05-15,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2430,2025-05-15,12:01-1:00,Eat,Aaba
+2431,2025-05-15,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2432,2025-05-15,2:01-3:30,anything,Aaba
+2433,2025-05-15,3:30-6:00,Home work,Aaba
+2434,2025-05-15,6:01-7:30,Watch,Aaba
+2435,2025-05-15,7:31-8:30,Dinner,Aaba
+2436,2025-05-15,8:31-9:20,Try to sleep,Aaba
+2437,2025-05-16,7:30-7:59,Woke up brushed made bed,Aaba
+2438,2025-05-16,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2439,2025-05-16,8:31-9:00,Play,Aaba
+2440,2025-05-16,9:01-9:20,do UCMAS,Aaba
+2441,2025-05-16,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2442,2025-05-16,10:31-11:00,Do anything,Aaba
+2443,2025-05-16,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2444,2025-05-16,12:01-1:00,Eat,Aaba
+2445,2025-05-16,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2446,2025-05-16,2:01-3:30,anything,Aaba
+2447,2025-05-16,3:30-6:00,Home work,Aaba
+2448,2025-05-16,6:01-7:30,Watch,Aaba
+2449,2025-05-16,7:31-8:30,Dinner,Aaba
+2450,2025-05-16,8:31-9:20,Try to sleep,Aaba
+2451,2025-05-17,7:30-7:59,Woke up brushed made bed,Aaba
+2452,2025-05-17,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2453,2025-05-17,8:31-9:00,Play,Aaba
+2454,2025-05-17,9:01-9:20,do UCMAS,Aaba
+2455,2025-05-17,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2456,2025-05-17,10:31-11:00,Do anything,Aaba
+2457,2025-05-17,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2458,2025-05-17,12:01-1:00,Eat,Aaba
+2459,2025-05-17,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2460,2025-05-17,2:01-3:30,anything,Aaba
+2461,2025-05-17,3:30-6:00,Home work,Aaba
+2462,2025-05-17,6:01-7:30,Watch,Aaba
+2463,2025-05-17,7:31-8:30,Dinner,Aaba
+2464,2025-05-17,8:31-9:20,Try to sleep,Aaba
+2465,2025-05-18,7:30-7:59,Woke up brushed made bed,Aaba
+2466,2025-05-18,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2467,2025-05-18,8:31-9:00,Play,Aaba
+2468,2025-05-18,9:01-9:20,do UCMAS,Aaba
+2469,2025-05-18,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2470,2025-05-18,10:31-11:00,Do anything,Aaba
+2471,2025-05-18,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2472,2025-05-18,12:01-1:00,Eat,Aaba
+2473,2025-05-18,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2474,2025-05-18,2:01-3:30,anything,Aaba
+2475,2025-05-18,3:30-6:00,Home work,Aaba
+2476,2025-05-18,6:01-7:30,Watch,Aaba
+2477,2025-05-18,7:31-8:30,Dinner,Aaba
+2478,2025-05-18,8:31-9:20,Try to sleep,Aaba
+2479,2025-05-19,7:30-7:59,Woke up brushed made bed,Aaba
+2480,2025-05-19,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2481,2025-05-19,8:31-9:00,Play,Aaba
+2482,2025-05-19,9:01-9:20,do UCMAS,Aaba
+2483,2025-05-19,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2484,2025-05-19,10:31-11:00,Do anything,Aaba
+2485,2025-05-19,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2486,2025-05-19,12:01-1:00,Eat,Aaba
+2487,2025-05-19,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2488,2025-05-19,2:01-3:30,anything,Aaba
+2489,2025-05-19,3:30-6:00,Home work,Aaba
+2490,2025-05-19,6:01-7:30,Watch,Aaba
+2491,2025-05-19,7:31-8:30,Dinner,Aaba
+2492,2025-05-19,8:31-9:20,Try to sleep,Aaba
+2493,2025-05-20,7:30-7:59,Woke up brushed made bed,Aaba
+2494,2025-05-20,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2495,2025-05-20,8:31-9:00,Play,Aaba
+2496,2025-05-20,9:01-9:20,do UCMAS,Aaba
+2497,2025-05-20,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2498,2025-05-20,10:31-11:00,Do anything,Aaba
+2499,2025-05-20,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2500,2025-05-20,12:01-1:00,Eat,Aaba
+2501,2025-05-20,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2502,2025-05-20,2:01-3:30,anything,Aaba
+2503,2025-05-20,3:30-6:00,Home work,Aaba
+2504,2025-05-20,6:01-7:30,Watch,Aaba
+2505,2025-05-20,7:31-8:30,Dinner,Aaba
+2506,2025-05-20,8:31-9:20,Try to sleep,Aaba
+2507,2025-05-21,7:30-7:59,Woke up brushed made bed,Aaba
+2508,2025-05-21,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2509,2025-05-21,8:31-9:00,Play,Aaba
+2510,2025-05-21,9:01-9:20,do UCMAS,Aaba
+2511,2025-05-21,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2512,2025-05-21,10:31-11:00,Do anything,Aaba
+2513,2025-05-21,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2514,2025-05-21,12:01-1:00,Eat,Aaba
+2515,2025-05-21,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2516,2025-05-21,2:01-3:30,anything,Aaba
+2517,2025-05-21,3:30-6:00,Home work,Aaba
+2518,2025-05-21,6:01-7:30,Watch,Aaba
+2519,2025-05-21,7:31-8:30,Dinner,Aaba
+2520,2025-05-21,8:31-9:20,Try to sleep,Aaba
+2521,2025-05-22,7:30-7:59,Woke up brushed made bed,Aaba
+2522,2025-05-22,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2523,2025-05-22,8:31-9:00,Play,Aaba
+2524,2025-05-22,9:01-9:20,do UCMAS,Aaba
+2525,2025-05-22,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2526,2025-05-22,10:31-11:00,Do anything,Aaba
+2527,2025-05-22,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2528,2025-05-22,12:01-1:00,Eat,Aaba
+2529,2025-05-22,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2530,2025-05-22,2:01-3:30,anything,Aaba
+2531,2025-05-22,3:30-6:00,Home work,Aaba
+2532,2025-05-22,6:01-7:30,Watch,Aaba
+2533,2025-05-22,7:31-8:30,Dinner,Aaba
+2534,2025-05-22,8:31-9:20,Try to sleep,Aaba
+2535,2025-05-23,7:30-7:59,Woke up brushed made bed,Aaba
+2536,2025-05-23,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2537,2025-05-23,8:31-9:00,Play,Aaba
+2538,2025-05-23,9:01-9:20,do UCMAS,Aaba
+2539,2025-05-23,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2540,2025-05-23,10:31-11:00,Do anything,Aaba
+2541,2025-05-23,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2542,2025-05-23,12:01-1:00,Eat,Aaba
+2543,2025-05-23,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2544,2025-05-23,2:01-3:30,anything,Aaba
+2545,2025-05-23,3:30-6:00,Home work,Aaba
+2546,2025-05-23,6:01-7:30,Watch,Aaba
+2547,2025-05-23,7:31-8:30,Dinner,Aaba
+2548,2025-05-23,8:31-9:20,Try to sleep,Aaba
+2549,2025-05-24,7:30-7:59,Woke up brushed made bed,Aaba
+2550,2025-05-24,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2551,2025-05-24,8:31-9:00,Play,Aaba
+2552,2025-05-24,9:01-9:20,do UCMAS,Aaba
+2553,2025-05-24,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2554,2025-05-24,10:31-11:00,Do anything,Aaba
+2555,2025-05-24,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2556,2025-05-24,12:01-1:00,Eat,Aaba
+2557,2025-05-24,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2558,2025-05-24,2:01-3:30,anything,Aaba
+2559,2025-05-24,3:30-6:00,Home work,Aaba
+2560,2025-05-24,6:01-7:30,Watch,Aaba
+2561,2025-05-24,7:31-8:30,Dinner,Aaba
+2562,2025-05-24,8:31-9:20,Try to sleep,Aaba
+2563,2025-05-25,7:30-7:59,Woke up brushed made bed,Aaba
+2564,2025-05-25,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2565,2025-05-25,8:31-9:00,Play,Aaba
+2566,2025-05-25,9:01-9:20,do UCMAS,Aaba
+2567,2025-05-25,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2568,2025-05-25,10:31-11:00,Do anything,Aaba
+2569,2025-05-25,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2570,2025-05-25,12:01-1:00,Eat,Aaba
+2571,2025-05-25,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2572,2025-05-25,2:01-3:30,anything,Aaba
+2573,2025-05-25,3:30-6:00,Home work,Aaba
+2574,2025-05-25,6:01-7:30,Watch,Aaba
+2575,2025-05-25,7:31-8:30,Dinner,Aaba
+2576,2025-05-25,8:31-9:20,Try to sleep,Aaba
+2577,2025-05-26,7:30-7:59,Woke up brushed made bed,Aaba
+2578,2025-05-26,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2579,2025-05-26,8:31-9:00,Play,Aaba
+2580,2025-05-26,9:01-9:20,do UCMAS,Aaba
+2581,2025-05-26,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2582,2025-05-26,10:31-11:00,Do anything,Aaba
+2583,2025-05-26,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2584,2025-05-26,12:01-1:00,Eat,Aaba
+2585,2025-05-26,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2586,2025-05-26,2:01-3:30,anything,Aaba
+2587,2025-05-26,3:30-6:00,Home work,Aaba
+2588,2025-05-26,6:01-7:30,Watch,Aaba
+2589,2025-05-26,7:31-8:30,Dinner,Aaba
+2590,2025-05-26,8:31-9:20,Try to sleep,Aaba
+2591,2025-05-27,7:30-7:59,Woke up brushed made bed,Aaba
+2592,2025-05-27,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2593,2025-05-27,8:31-9:00,Play,Aaba
+2594,2025-05-27,9:01-9:20,do UCMAS,Aaba
+2595,2025-05-27,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2596,2025-05-27,10:31-11:00,Do anything,Aaba
+2597,2025-05-27,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2598,2025-05-27,12:01-1:00,Eat,Aaba
+2599,2025-05-27,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2600,2025-05-27,2:01-3:30,anything,Aaba
+2601,2025-05-27,3:30-6:00,Home work,Aaba
+2602,2025-05-27,6:01-7:30,Watch,Aaba
+2603,2025-05-27,7:31-8:30,Dinner,Aaba
+2604,2025-05-27,8:31-9:20,Try to sleep,Aaba
+2605,2025-05-28,7:30-7:59,Woke up brushed made bed,Aaba
+2606,2025-05-28,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2607,2025-05-28,8:31-9:00,Play,Aaba
+2608,2025-05-28,9:01-9:20,do UCMAS,Aaba
+2609,2025-05-28,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2610,2025-05-28,10:31-11:00,Do anything,Aaba
+2611,2025-05-28,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2612,2025-05-28,12:01-1:00,Eat,Aaba
+2613,2025-05-28,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2614,2025-05-28,2:01-3:30,anything,Aaba
+2615,2025-05-28,3:30-6:00,Home work,Aaba
+2616,2025-05-28,6:01-7:30,Watch,Aaba
+2617,2025-05-28,7:31-8:30,Dinner,Aaba
+2618,2025-05-28,8:31-9:20,Try to sleep,Aaba
+2619,2025-05-29,7:30-7:59,Woke up brushed made bed,Aaba
+2620,2025-05-29,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2621,2025-05-29,8:31-9:00,Play,Aaba
+2622,2025-05-29,9:01-9:20,do UCMAS,Aaba
+2623,2025-05-29,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2624,2025-05-29,10:31-11:00,Do anything,Aaba
+2625,2025-05-29,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2626,2025-05-29,12:01-1:00,Eat,Aaba
+2627,2025-05-29,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2628,2025-05-29,2:01-3:30,anything,Aaba
+2629,2025-05-29,3:30-6:00,Home work,Aaba
+2630,2025-05-29,6:01-7:30,Watch,Aaba
+2631,2025-05-29,7:31-8:30,Dinner,Aaba
+2632,2025-05-29,8:31-9:20,Try to sleep,Aaba
+2633,2025-05-30,7:30-7:59,Woke up brushed made bed,Aaba
+2634,2025-05-30,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2635,2025-05-30,8:31-9:00,Play,Aaba
+2636,2025-05-30,9:01-9:20,do UCMAS,Aaba
+2637,2025-05-30,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2638,2025-05-30,10:31-11:00,Do anything,Aaba
+2639,2025-05-30,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2640,2025-05-30,12:01-1:00,Eat,Aaba
+2641,2025-05-30,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2642,2025-05-30,2:01-3:30,anything,Aaba
+2643,2025-05-30,3:30-6:00,Home work,Aaba
+2644,2025-05-30,6:01-7:30,Watch,Aaba
+2645,2025-05-30,7:31-8:30,Dinner,Aaba
+2646,2025-05-30,8:31-9:20,Try to sleep,Aaba
+2647,2025-05-31,7:30-7:59,Woke up brushed made bed,Aaba
+2648,2025-05-31,8:00-8:30,Go downstairs and eat breakfast,Aaba
+2649,2025-05-31,8:31-9:00,Play,Aaba
+2650,2025-05-31,9:01-9:20,do UCMAS,Aaba
+2651,2025-05-31,9:21-10:30,Do anything like Watching drawing and More,Aaba
+2652,2025-05-31,10:31-11:00,Do anything,Aaba
+2653,2025-05-31,11:01-12:00,Maybe told to do homework or play outside.,Aaba
+2654,2025-05-31,12:01-1:00,Eat,Aaba
+2655,2025-05-31,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaba
+2656,2025-05-31,2:01-3:30,anything,Aaba
+2657,2025-05-31,3:30-6:00,Home work,Aaba
+2658,2025-05-31,6:01-7:30,Watch,Aaba
+2659,2025-05-31,7:31-8:30,Dinner,Aaba
+2660,2025-05-31,8:31-9:20,Try to sleep,Aaba
+2661,2025-05-01,7:30-7:59,Woke up brushed made bed,Aaji
+2662,2025-05-01,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2663,2025-05-01,8:31-9:00,Play,Aaji
+2664,2025-05-01,9:01-9:20,do UCMAS,Aaji
+2665,2025-05-01,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2666,2025-05-01,10:31-11:00,Do anything,Aaji
+2667,2025-05-01,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2668,2025-05-01,12:01-1:00,Eat,Aaji
+2669,2025-05-01,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2670,2025-05-01,2:01-3:30,anything,Aaji
+2671,2025-05-01,3:30-6:00,Home work,Aaji
+2672,2025-05-01,6:01-7:30,Watch,Aaji
+2673,2025-05-01,7:31-8:30,Dinner,Aaji
+2674,2025-05-01,8:31-9:20,Try to sleep,Aaji
+2675,2025-05-02,7:30-7:59,Woke up brushed made bed,Aaji
+2676,2025-05-02,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2677,2025-05-02,8:31-9:00,Play,Aaji
+2678,2025-05-02,9:01-9:20,do UCMAS,Aaji
+2679,2025-05-02,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2680,2025-05-02,10:31-11:00,Do anything,Aaji
+2681,2025-05-02,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2682,2025-05-02,12:01-1:00,Eat,Aaji
+2683,2025-05-02,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2684,2025-05-02,2:01-3:30,anything,Aaji
+2685,2025-05-02,3:30-6:00,Home work,Aaji
+2686,2025-05-02,6:01-7:30,Watch,Aaji
+2687,2025-05-02,7:31-8:30,Dinner,Aaji
+2688,2025-05-02,8:31-9:20,Try to sleep,Aaji
+2689,2025-05-03,7:30-7:59,Woke up brushed made bed,Aaji
+2690,2025-05-03,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2691,2025-05-03,8:31-9:00,Play,Aaji
+2692,2025-05-03,9:01-9:20,do UCMAS,Aaji
+2693,2025-05-03,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2694,2025-05-03,10:31-11:00,Do anything,Aaji
+2695,2025-05-03,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2696,2025-05-03,12:01-1:00,Eat,Aaji
+2697,2025-05-03,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2698,2025-05-03,2:01-3:30,anything,Aaji
+2699,2025-05-03,3:30-6:00,Home work,Aaji
+2700,2025-05-03,6:01-7:30,Watch,Aaji
+2701,2025-05-03,7:31-8:30,Dinner,Aaji
+2702,2025-05-03,8:31-9:20,Try to sleep,Aaji
+2703,2025-05-04,7:30-7:59,Woke up brushed made bed,Aaji
+2704,2025-05-04,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2705,2025-05-04,8:31-9:00,Play,Aaji
+2706,2025-05-04,9:01-9:20,do UCMAS,Aaji
+2707,2025-05-04,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2708,2025-05-04,10:31-11:00,Do anything,Aaji
+2709,2025-05-04,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2710,2025-05-04,12:01-1:00,Eat,Aaji
+2711,2025-05-04,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2712,2025-05-04,2:01-3:30,anything,Aaji
+2713,2025-05-04,3:30-6:00,Home work,Aaji
+2714,2025-05-04,6:01-7:30,Watch,Aaji
+2715,2025-05-04,7:31-8:30,Dinner,Aaji
+2716,2025-05-04,8:31-9:20,Try to sleep,Aaji
+2717,2025-05-05,7:30-7:59,Woke up brushed made bed,Aaji
+2718,2025-05-05,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2719,2025-05-05,8:31-9:00,Play,Aaji
+2720,2025-05-05,9:01-9:20,do UCMAS,Aaji
+2721,2025-05-05,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2722,2025-05-05,10:31-11:00,Do anything,Aaji
+2723,2025-05-05,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2724,2025-05-05,12:01-1:00,Eat,Aaji
+2725,2025-05-05,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2726,2025-05-05,2:01-3:30,anything,Aaji
+2727,2025-05-05,3:30-6:00,Home work,Aaji
+2728,2025-05-05,6:01-7:30,Watch,Aaji
+2729,2025-05-05,7:31-8:30,Dinner,Aaji
+2730,2025-05-05,8:31-9:20,Try to sleep,Aaji
+2731,2025-05-06,7:30-7:59,Woke up brushed made bed,Aaji
+2732,2025-05-06,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2733,2025-05-06,8:31-9:00,Play,Aaji
+2734,2025-05-06,9:01-9:20,do UCMAS,Aaji
+2735,2025-05-06,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2736,2025-05-06,10:31-11:00,Do anything,Aaji
+2737,2025-05-06,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2738,2025-05-06,12:01-1:00,Eat,Aaji
+2739,2025-05-06,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2740,2025-05-06,2:01-3:30,anything,Aaji
+2741,2025-05-06,3:30-6:00,Home work,Aaji
+2742,2025-05-06,6:01-7:30,Watch,Aaji
+2743,2025-05-06,7:31-8:30,Dinner,Aaji
+2744,2025-05-06,8:31-9:20,Try to sleep,Aaji
+2745,2025-05-07,7:30-7:59,Woke up brushed made bed,Aaji
+2746,2025-05-07,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2747,2025-05-07,8:31-9:00,Play,Aaji
+2748,2025-05-07,9:01-9:20,do UCMAS,Aaji
+2749,2025-05-07,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2750,2025-05-07,10:31-11:00,Do anything,Aaji
+2751,2025-05-07,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2752,2025-05-07,12:01-1:00,Eat,Aaji
+2753,2025-05-07,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2754,2025-05-07,2:01-3:30,anything,Aaji
+2755,2025-05-07,3:30-6:00,Home work,Aaji
+2756,2025-05-07,6:01-7:30,Watch,Aaji
+2757,2025-05-07,7:31-8:30,Dinner,Aaji
+2758,2025-05-07,8:31-9:20,Try to sleep,Aaji
+2759,2025-05-08,7:30-7:59,Woke up brushed made bed,Aaji
+2760,2025-05-08,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2761,2025-05-08,8:31-9:00,Play,Aaji
+2762,2025-05-08,9:01-9:20,do UCMAS,Aaji
+2763,2025-05-08,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2764,2025-05-08,10:31-11:00,Do anything,Aaji
+2765,2025-05-08,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2766,2025-05-08,12:01-1:00,Eat,Aaji
+2767,2025-05-08,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2768,2025-05-08,2:01-3:30,anything,Aaji
+2769,2025-05-08,3:30-6:00,Home work,Aaji
+2770,2025-05-08,6:01-7:30,Watch,Aaji
+2771,2025-05-08,7:31-8:30,Dinner,Aaji
+2772,2025-05-08,8:31-9:20,Try to sleep,Aaji
+2773,2025-05-09,7:30-7:59,Woke up brushed made bed,Aaji
+2774,2025-05-09,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2775,2025-05-09,8:31-9:00,Play,Aaji
+2776,2025-05-09,9:01-9:20,do UCMAS,Aaji
+2777,2025-05-09,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2778,2025-05-09,10:31-11:00,Do anything,Aaji
+2779,2025-05-09,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2780,2025-05-09,12:01-1:00,Eat,Aaji
+2781,2025-05-09,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2782,2025-05-09,2:01-3:30,anything,Aaji
+2783,2025-05-09,3:30-6:00,Home work,Aaji
+2784,2025-05-09,6:01-7:30,Watch,Aaji
+2785,2025-05-09,7:31-8:30,Dinner,Aaji
+2786,2025-05-09,8:31-9:20,Try to sleep,Aaji
+2787,2025-05-10,7:30-7:59,Woke up brushed made bed,Aaji
+2788,2025-05-10,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2789,2025-05-10,8:31-9:00,Play,Aaji
+2790,2025-05-10,9:01-9:20,do UCMAS,Aaji
+2791,2025-05-10,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2792,2025-05-10,10:31-11:00,Do anything,Aaji
+2793,2025-05-10,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2794,2025-05-10,12:01-1:00,Eat,Aaji
+2795,2025-05-10,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2796,2025-05-10,2:01-3:30,anything,Aaji
+2797,2025-05-10,3:30-6:00,Home work,Aaji
+2798,2025-05-10,6:01-7:30,Watch,Aaji
+2799,2025-05-10,7:31-8:30,Dinner,Aaji
+2800,2025-05-10,8:31-9:20,Try to sleep,Aaji
+2801,2025-05-11,7:30-7:59,Woke up brushed made bed,Aaji
+2802,2025-05-11,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2803,2025-05-11,8:31-9:00,Play,Aaji
+2804,2025-05-11,9:01-9:20,do UCMAS,Aaji
+2805,2025-05-11,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2806,2025-05-11,10:31-11:00,Do anything,Aaji
+2807,2025-05-11,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2808,2025-05-11,12:01-1:00,Eat,Aaji
+2809,2025-05-11,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2810,2025-05-11,2:01-3:30,anything,Aaji
+2811,2025-05-11,3:30-6:00,Home work,Aaji
+2812,2025-05-11,6:01-7:30,Watch,Aaji
+2813,2025-05-11,7:31-8:30,Dinner,Aaji
+2814,2025-05-11,8:31-9:20,Try to sleep,Aaji
+2815,2025-05-12,7:30-7:59,Woke up brushed made bed,Aaji
+2816,2025-05-12,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2817,2025-05-12,8:31-9:00,Play,Aaji
+2818,2025-05-12,9:01-9:20,do UCMAS,Aaji
+2819,2025-05-12,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2820,2025-05-12,10:31-11:00,Do anything,Aaji
+2821,2025-05-12,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2822,2025-05-12,12:01-1:00,Eat,Aaji
+2823,2025-05-12,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2824,2025-05-12,2:01-3:30,anything,Aaji
+2825,2025-05-12,3:30-6:00,Home work,Aaji
+2826,2025-05-12,6:01-7:30,Watch,Aaji
+2827,2025-05-12,7:31-8:30,Dinner,Aaji
+2828,2025-05-12,8:31-9:20,Try to sleep,Aaji
+2829,2025-05-13,7:30-7:59,Woke up brushed made bed,Aaji
+2830,2025-05-13,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2831,2025-05-13,8:31-9:00,Play,Aaji
+2832,2025-05-13,9:01-9:20,do UCMAS,Aaji
+2833,2025-05-13,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2834,2025-05-13,10:31-11:00,Do anything,Aaji
+2835,2025-05-13,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2836,2025-05-13,12:01-1:00,Eat,Aaji
+2837,2025-05-13,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2838,2025-05-13,2:01-3:30,anything,Aaji
+2839,2025-05-13,3:30-6:00,Home work,Aaji
+2840,2025-05-13,6:01-7:30,Watch,Aaji
+2841,2025-05-13,7:31-8:30,Dinner,Aaji
+2842,2025-05-13,8:31-9:20,Try to sleep,Aaji
+2843,2025-05-14,7:30-7:59,Woke up brushed made bed,Aaji
+2844,2025-05-14,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2845,2025-05-14,8:31-9:00,Play,Aaji
+2846,2025-05-14,9:01-9:20,do UCMAS,Aaji
+2847,2025-05-14,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2848,2025-05-14,10:31-11:00,Do anything,Aaji
+2849,2025-05-14,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2850,2025-05-14,12:01-1:00,Eat,Aaji
+2851,2025-05-14,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2852,2025-05-14,2:01-3:30,anything,Aaji
+2853,2025-05-14,3:30-6:00,Home work,Aaji
+2854,2025-05-14,6:01-7:30,Watch,Aaji
+2855,2025-05-14,7:31-8:30,Dinner,Aaji
+2856,2025-05-14,8:31-9:20,Try to sleep,Aaji
+2857,2025-05-15,7:30-7:59,Woke up brushed made bed,Aaji
+2858,2025-05-15,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2859,2025-05-15,8:31-9:00,Play,Aaji
+2860,2025-05-15,9:01-9:20,do UCMAS,Aaji
+2861,2025-05-15,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2862,2025-05-15,10:31-11:00,Do anything,Aaji
+2863,2025-05-15,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2864,2025-05-15,12:01-1:00,Eat,Aaji
+2865,2025-05-15,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2866,2025-05-15,2:01-3:30,anything,Aaji
+2867,2025-05-15,3:30-6:00,Home work,Aaji
+2868,2025-05-15,6:01-7:30,Watch,Aaji
+2869,2025-05-15,7:31-8:30,Dinner,Aaji
+2870,2025-05-15,8:31-9:20,Try to sleep,Aaji
+2871,2025-05-16,7:30-7:59,Woke up brushed made bed,Aaji
+2872,2025-05-16,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2873,2025-05-16,8:31-9:00,Play,Aaji
+2874,2025-05-16,9:01-9:20,do UCMAS,Aaji
+2875,2025-05-16,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2876,2025-05-16,10:31-11:00,Do anything,Aaji
+2877,2025-05-16,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2878,2025-05-16,12:01-1:00,Eat,Aaji
+2879,2025-05-16,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2880,2025-05-16,2:01-3:30,anything,Aaji
+2881,2025-05-16,3:30-6:00,Home work,Aaji
+2882,2025-05-16,6:01-7:30,Watch,Aaji
+2883,2025-05-16,7:31-8:30,Dinner,Aaji
+2884,2025-05-16,8:31-9:20,Try to sleep,Aaji
+2885,2025-05-17,7:30-7:59,Woke up brushed made bed,Aaji
+2886,2025-05-17,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2887,2025-05-17,8:31-9:00,Play,Aaji
+2888,2025-05-17,9:01-9:20,do UCMAS,Aaji
+2889,2025-05-17,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2890,2025-05-17,10:31-11:00,Do anything,Aaji
+2891,2025-05-17,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2892,2025-05-17,12:01-1:00,Eat,Aaji
+2893,2025-05-17,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2894,2025-05-17,2:01-3:30,anything,Aaji
+2895,2025-05-17,3:30-6:00,Home work,Aaji
+2896,2025-05-17,6:01-7:30,Watch,Aaji
+2897,2025-05-17,7:31-8:30,Dinner,Aaji
+2898,2025-05-17,8:31-9:20,Try to sleep,Aaji
+2899,2025-05-18,7:30-7:59,Woke up brushed made bed,Aaji
+2900,2025-05-18,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2901,2025-05-18,8:31-9:00,Play,Aaji
+2902,2025-05-18,9:01-9:20,do UCMAS,Aaji
+2903,2025-05-18,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2904,2025-05-18,10:31-11:00,Do anything,Aaji
+2905,2025-05-18,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2906,2025-05-18,12:01-1:00,Eat,Aaji
+2907,2025-05-18,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2908,2025-05-18,2:01-3:30,anything,Aaji
+2909,2025-05-18,3:30-6:00,Home work,Aaji
+2910,2025-05-18,6:01-7:30,Watch,Aaji
+2911,2025-05-18,7:31-8:30,Dinner,Aaji
+2912,2025-05-18,8:31-9:20,Try to sleep,Aaji
+2913,2025-05-19,7:30-7:59,Woke up brushed made bed,Aaji
+2914,2025-05-19,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2915,2025-05-19,8:31-9:00,Play,Aaji
+2916,2025-05-19,9:01-9:20,do UCMAS,Aaji
+2917,2025-05-19,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2918,2025-05-19,10:31-11:00,Do anything,Aaji
+2919,2025-05-19,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2920,2025-05-19,12:01-1:00,Eat,Aaji
+2921,2025-05-19,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2922,2025-05-19,2:01-3:30,anything,Aaji
+2923,2025-05-19,3:30-6:00,Home work,Aaji
+2924,2025-05-19,6:01-7:30,Watch,Aaji
+2925,2025-05-19,7:31-8:30,Dinner,Aaji
+2926,2025-05-19,8:31-9:20,Try to sleep,Aaji
+2927,2025-05-20,7:30-7:59,Woke up brushed made bed,Aaji
+2928,2025-05-20,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2929,2025-05-20,8:31-9:00,Play,Aaji
+2930,2025-05-20,9:01-9:20,do UCMAS,Aaji
+2931,2025-05-20,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2932,2025-05-20,10:31-11:00,Do anything,Aaji
+2933,2025-05-20,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2934,2025-05-20,12:01-1:00,Eat,Aaji
+2935,2025-05-20,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2936,2025-05-20,2:01-3:30,anything,Aaji
+2937,2025-05-20,3:30-6:00,Home work,Aaji
+2938,2025-05-20,6:01-7:30,Watch,Aaji
+2939,2025-05-20,7:31-8:30,Dinner,Aaji
+2940,2025-05-20,8:31-9:20,Try to sleep,Aaji
+2941,2025-05-21,7:30-7:59,Woke up brushed made bed,Aaji
+2942,2025-05-21,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2943,2025-05-21,8:31-9:00,Play,Aaji
+2944,2025-05-21,9:01-9:20,do UCMAS,Aaji
+2945,2025-05-21,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2946,2025-05-21,10:31-11:00,Do anything,Aaji
+2947,2025-05-21,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2948,2025-05-21,12:01-1:00,Eat,Aaji
+2949,2025-05-21,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2950,2025-05-21,2:01-3:30,anything,Aaji
+2951,2025-05-21,3:30-6:00,Home work,Aaji
+2952,2025-05-21,6:01-7:30,Watch,Aaji
+2953,2025-05-21,7:31-8:30,Dinner,Aaji
+2954,2025-05-21,8:31-9:20,Try to sleep,Aaji
+2955,2025-05-22,7:30-7:59,Woke up brushed made bed,Aaji
+2956,2025-05-22,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2957,2025-05-22,8:31-9:00,Play,Aaji
+2958,2025-05-22,9:01-9:20,do UCMAS,Aaji
+2959,2025-05-22,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2960,2025-05-22,10:31-11:00,Do anything,Aaji
+2961,2025-05-22,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2962,2025-05-22,12:01-1:00,Eat,Aaji
+2963,2025-05-22,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2964,2025-05-22,2:01-3:30,anything,Aaji
+2965,2025-05-22,3:30-6:00,Home work,Aaji
+2966,2025-05-22,6:01-7:30,Watch,Aaji
+2967,2025-05-22,7:31-8:30,Dinner,Aaji
+2968,2025-05-22,8:31-9:20,Try to sleep,Aaji
+2969,2025-05-23,7:30-7:59,Woke up brushed made bed,Aaji
+2970,2025-05-23,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2971,2025-05-23,8:31-9:00,Play,Aaji
+2972,2025-05-23,9:01-9:20,do UCMAS,Aaji
+2973,2025-05-23,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2974,2025-05-23,10:31-11:00,Do anything,Aaji
+2975,2025-05-23,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2976,2025-05-23,12:01-1:00,Eat,Aaji
+2977,2025-05-23,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2978,2025-05-23,2:01-3:30,anything,Aaji
+2979,2025-05-23,3:30-6:00,Home work,Aaji
+2980,2025-05-23,6:01-7:30,Watch,Aaji
+2981,2025-05-23,7:31-8:30,Dinner,Aaji
+2982,2025-05-23,8:31-9:20,Try to sleep,Aaji
+2983,2025-05-24,7:30-7:59,Woke up brushed made bed,Aaji
+2984,2025-05-24,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2985,2025-05-24,8:31-9:00,Play,Aaji
+2986,2025-05-24,9:01-9:20,do UCMAS,Aaji
+2987,2025-05-24,9:21-10:30,Do anything like Watching drawing and More,Aaji
+2988,2025-05-24,10:31-11:00,Do anything,Aaji
+2989,2025-05-24,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+2990,2025-05-24,12:01-1:00,Eat,Aaji
+2991,2025-05-24,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+2992,2025-05-24,2:01-3:30,anything,Aaji
+2993,2025-05-24,3:30-6:00,Home work,Aaji
+2994,2025-05-24,6:01-7:30,Watch,Aaji
+2995,2025-05-24,7:31-8:30,Dinner,Aaji
+2996,2025-05-24,8:31-9:20,Try to sleep,Aaji
+2997,2025-05-25,7:30-7:59,Woke up brushed made bed,Aaji
+2998,2025-05-25,8:00-8:30,Go downstairs and eat breakfast,Aaji
+2999,2025-05-25,8:31-9:00,Play,Aaji
+3000,2025-05-25,9:01-9:20,do UCMAS,Aaji
+3001,2025-05-25,9:21-10:30,Do anything like Watching drawing and More,Aaji
+3002,2025-05-25,10:31-11:00,Do anything,Aaji
+3003,2025-05-25,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+3004,2025-05-25,12:01-1:00,Eat,Aaji
+3005,2025-05-25,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+3006,2025-05-25,2:01-3:30,anything,Aaji
+3007,2025-05-25,3:30-6:00,Home work,Aaji
+3008,2025-05-25,6:01-7:30,Watch,Aaji
+3009,2025-05-25,7:31-8:30,Dinner,Aaji
+3010,2025-05-25,8:31-9:20,Try to sleep,Aaji
+3011,2025-05-26,7:30-7:59,Woke up brushed made bed,Aaji
+3012,2025-05-26,8:00-8:30,Go downstairs and eat breakfast,Aaji
+3013,2025-05-26,8:31-9:00,Play,Aaji
+3014,2025-05-26,9:01-9:20,do UCMAS,Aaji
+3015,2025-05-26,9:21-10:30,Do anything like Watching drawing and More,Aaji
+3016,2025-05-26,10:31-11:00,Do anything,Aaji
+3017,2025-05-26,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+3018,2025-05-26,12:01-1:00,Eat,Aaji
+3019,2025-05-26,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+3020,2025-05-26,2:01-3:30,anything,Aaji
+3021,2025-05-26,3:30-6:00,Home work,Aaji
+3022,2025-05-26,6:01-7:30,Watch,Aaji
+3023,2025-05-26,7:31-8:30,Dinner,Aaji
+3024,2025-05-26,8:31-9:20,Try to sleep,Aaji
+3025,2025-05-27,7:30-7:59,Woke up brushed made bed,Aaji
+3026,2025-05-27,8:00-8:30,Go downstairs and eat breakfast,Aaji
+3027,2025-05-27,8:31-9:00,Play,Aaji
+3028,2025-05-27,9:01-9:20,do UCMAS,Aaji
+3029,2025-05-27,9:21-10:30,Do anything like Watching drawing and More,Aaji
+3030,2025-05-27,10:31-11:00,Do anything,Aaji
+3031,2025-05-27,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+3032,2025-05-27,12:01-1:00,Eat,Aaji
+3033,2025-05-27,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+3034,2025-05-27,2:01-3:30,anything,Aaji
+3035,2025-05-27,3:30-6:00,Home work,Aaji
+3036,2025-05-27,6:01-7:30,Watch,Aaji
+3037,2025-05-27,7:31-8:30,Dinner,Aaji
+3038,2025-05-27,8:31-9:20,Try to sleep,Aaji
+3039,2025-05-28,7:30-7:59,Woke up brushed made bed,Aaji
+3040,2025-05-28,8:00-8:30,Go downstairs and eat breakfast,Aaji
+3041,2025-05-28,8:31-9:00,Play,Aaji
+3042,2025-05-28,9:01-9:20,do UCMAS,Aaji
+3043,2025-05-28,9:21-10:30,Do anything like Watching drawing and More,Aaji
+3044,2025-05-28,10:31-11:00,Do anything,Aaji
+3045,2025-05-28,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+3046,2025-05-28,12:01-1:00,Eat,Aaji
+3047,2025-05-28,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+3048,2025-05-28,2:01-3:30,anything,Aaji
+3049,2025-05-28,3:30-6:00,Home work,Aaji
+3050,2025-05-28,6:01-7:30,Watch,Aaji
+3051,2025-05-28,7:31-8:30,Dinner,Aaji
+3052,2025-05-28,8:31-9:20,Try to sleep,Aaji
+3053,2025-05-29,7:30-7:59,Woke up brushed made bed,Aaji
+3054,2025-05-29,8:00-8:30,Go downstairs and eat breakfast,Aaji
+3055,2025-05-29,8:31-9:00,Play,Aaji
+3056,2025-05-29,9:01-9:20,do UCMAS,Aaji
+3057,2025-05-29,9:21-10:30,Do anything like Watching drawing and More,Aaji
+3058,2025-05-29,10:31-11:00,Do anything,Aaji
+3059,2025-05-29,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+3060,2025-05-29,12:01-1:00,Eat,Aaji
+3061,2025-05-29,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+3062,2025-05-29,2:01-3:30,anything,Aaji
+3063,2025-05-29,3:30-6:00,Home work,Aaji
+3064,2025-05-29,6:01-7:30,Watch,Aaji
+3065,2025-05-29,7:31-8:30,Dinner,Aaji
+3066,2025-05-29,8:31-9:20,Try to sleep,Aaji
+3067,2025-05-30,7:30-7:59,Woke up brushed made bed,Aaji
+3068,2025-05-30,8:00-8:30,Go downstairs and eat breakfast,Aaji
+3069,2025-05-30,8:31-9:00,Play,Aaji
+3070,2025-05-30,9:01-9:20,do UCMAS,Aaji
+3071,2025-05-30,9:21-10:30,Do anything like Watching drawing and More,Aaji
+3072,2025-05-30,10:31-11:00,Do anything,Aaji
+3073,2025-05-30,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+3074,2025-05-30,12:01-1:00,Eat,Aaji
+3075,2025-05-30,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+3076,2025-05-30,2:01-3:30,anything,Aaji
+3077,2025-05-30,3:30-6:00,Home work,Aaji
+3078,2025-05-30,6:01-7:30,Watch,Aaji
+3079,2025-05-30,7:31-8:30,Dinner,Aaji
+3080,2025-05-30,8:31-9:20,Try to sleep,Aaji
+3081,2025-05-31,7:30-7:59,Woke up brushed made bed,Aaji
+3082,2025-05-31,8:00-8:30,Go downstairs and eat breakfast,Aaji
+3083,2025-05-31,8:31-9:00,Play,Aaji
+3084,2025-05-31,9:01-9:20,do UCMAS,Aaji
+3085,2025-05-31,9:21-10:30,Do anything like Watching drawing and More,Aaji
+3086,2025-05-31,10:31-11:00,Do anything,Aaji
+3087,2025-05-31,11:01-12:00,Maybe told to do homework or play outside.,Aaji
+3088,2025-05-31,12:01-1:00,Eat,Aaji
+3089,2025-05-31,1:01-2:00,eat if didn't eat from 12:01-1:00,Aaji
+3090,2025-05-31,2:01-3:30,anything,Aaji
+3091,2025-05-31,3:30-6:00,Home work,Aaji
+3092,2025-05-31,6:01-7:30,Watch,Aaji
+3093,2025-05-31,7:31-8:30,Dinner,Aaji
+3094,2025-05-31,8:31-9:20,Try to sleep,Aaji

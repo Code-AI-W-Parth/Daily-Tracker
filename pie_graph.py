@@ -13,22 +13,17 @@ CSV_FILE = "time_log.csv"
 USERS_FILE = "users.json"
 PROFILE_PHOTO_DIR = "profile_photos"
 
-# PostgreSQL connection settings
-PG_HOST = 'localhost'
-PG_PORT = 5432
-PG_DB = 'postgres'
-PG_USER = 'postgres'
+#import psycopg2
 
-PG_PASS = 'postgres'  # <-- CHANGE THIS TO YOUR ACTUAL PASSWORD
+conn = psycopg2.connect(
+    host="https://ycqfpozukuwnwzqrhynn.supabase.co",
+    database="postgres",
+    user="postgres",
+    password="RyanWork@Summmer25",
+    port=5432,
+    sslmode="require"   # Supabase needs SSL
+)
 
-def get_pg_conn():
-    return psycopg2.connect(
-        host=PG_HOST,
-        port=PG_PORT,
-        dbname=PG_DB,
-        user=PG_USER,
-        password=PG_PASS
-    )
 
 # Ensure log file exists before configuring logging
 Path("app.log").touch(exist_ok=True)
@@ -807,4 +802,3 @@ elif page == "Dashboard":
             if not python_df.empty:
                 st.subheader("Python Activity Log Entries")
                 st.dataframe(python_df[["Date", "Time", "What I Did", "Duration"]].sort_values(by=["Date", "Time"]))
-
